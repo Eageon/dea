@@ -1,0 +1,884 @@
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+beautiful-blue-face	ahei-face.el	/^(defface beautiful-blue-face$/;"	f
+beautiful-blue-red-face	ahei-face.el	/^(defface beautiful-blue-red-face$/;"	f
+black-red-face	ahei-face.el	/^(defface black-red-face$/;"	f
+blue-face	ahei-face.el	/^(defface blue-face$/;"	f
+cyan-face	ahei-face.el	/^(defface cyan-face$/;"	f
+darkblue-face	ahei-face.el	/^(defface darkblue-face$/;"	f
+darkcyan-face	ahei-face.el	/^(defface darkcyan-face$/;"	f
+darkgreen-face	ahei-face.el	/^(defface darkgreen-face$/;"	f
+darkmagenta-face	ahei-face.el	/^(defface darkmagenta-face$/;"	f
+darkred-face	ahei-face.el	/^(defface darkred-face$/;"	f
+darkyellow-face	ahei-face.el	/^(defface darkyellow-face$/;"	f
+green-face	ahei-face.el	/^(defface green-face$/;"	f
+green-red-face	ahei-face.el	/^(defface green-red-face$/;"	f
+light-blue-face	ahei-face.el	/^(defface light-blue-face$/;"	f
+lightblue-face	ahei-face.el	/^(defface lightblue-face$/;"	f
+magenta-face	ahei-face.el	/^(defface magenta-face$/;"	f
+red-blue-face	ahei-face.el	/^(defface red-blue-face$/;"	f
+red-face	ahei-face.el	/^(defface red-face$/;"	f
+red-yellow-face	ahei-face.el	/^(defface red-yellow-face$/;"	f
+region-invert	ahei-face.el	/^(defface region-invert nil "Invert of face region.")$/;"	f
+underline-face	ahei-face.el	/^(defface underline-face$/;"	f
+underline-green-face	ahei-face.el	/^(defface underline-green-face$/;"	f
+white-face	ahei-face.el	/^(defface white-face$/;"	f
+white-red-face	ahei-face.el	/^(defface white-red-face$/;"	f
+yellow-blue-face	ahei-face.el	/^(defface yellow-blue-face$/;"	f
+yellow-face	ahei-face.el	/^(defface yellow-face$/;"	f
+yellow-forestgreen-face	ahei-face.el	/^(defface yellow-forestgreen-face$/;"	f
+yellow-red-face	ahei-face.el	/^(defface yellow-red-face$/;"	f
+am-add-hooks	ahei-misc.el	/^(defun am-add-hooks (hooks function &optional append local)$/;"	f
+am-def-active-fun	ahei-misc.el	/^(defmacro am-def-active-fun (symbol &optional fun-name)$/;"	f
+am-equal-ignore-case	ahei-misc.el	/^(defun am-equal-ignore-case (str1 str2)$/;"	f
+am-forward-word-or-to-word	ahei-misc.el	/^(defun am-forward-word-or-to-word ()$/;"	f
+am-intern	ahei-misc.el	/^(defun am-intern (&rest strings)$/;"	f
+am-variable-is-t	ahei-misc.el	/^(defun am-variable-is-t (symbol)$/;"	f
+am-with-temp-mode	ahei-misc.el	/^(defmacro am-with-temp-mode (mode &rest body)$/;"	f
+global-map	all-buffer-settings.el	/^(define-key global-map (kbd "C-x M-n") 'next-buffer)$/;"	f
+global-map	all-buffer-settings.el	/^(define-key global-map (kbd "C-x M-p") 'previous-buffer)$/;"	f
+goto-paren	all-paren-settings.el	/^(defun goto-paren ()$/;"	f
+ywb-indent-accoding-to-paren	all-paren-settings.el	/^(defun ywb-indent-accoding-to-paren ()$/;"	f
+apropos-face-settings	apropos-face-settings.el	/^(defun apropos-face-settings ()$/;"	f
+artist-settings	artist-settings.el	/^(defun artist-settings ()$/;"	f
+ac+-apply-source-elisp-faces	auto-complete+.el	/^(defun ac+-apply-source-elisp-faces ()$/;"	f
+ac+-elisp-faces-candidate	auto-complete+.el	/^(defun ac+-elisp-faces-candidate ()$/;"	f
+ac+-elisp-features-candidate	auto-complete+.el	/^(defun ac+-elisp-features-candidate ()$/;"	f
+ac+-filename-candidate	auto-complete+.el	/^(defun ac+-filename-candidate ()$/;"	f
+ac+-filename-ignore-regexp	auto-complete+.el	/^(defcustom ac+-filename-ignore-regexp "^#.*#$\\\\|.*~$\\\\|^\\\\.\/?$\\\\|^\\\\.\\\\.\/?$\\\\|^.svn\\\\|^CVS$"$/;"	f
+ac+-files-candidate	auto-complete+.el	/^(defun ac+-files-candidate ()$/;"	f
+ac+-modes	auto-complete+.el	/^(defcustom ac+-modes$/;"	f
+ac+-omni-completion-elisp-faces-sources	auto-complete+.el	/^(defcustom ac+-omni-completion-elisp-faces-sources$/;"	f
+ac+-source-elisp-faces	auto-complete+.el	/^(defcustom ac+-source-elisp-faces '((candidates . ac+-elisp-faces-candidate))$/;"	f
+ac+-source-elisp-features	auto-complete+.el	/^(defcustom ac+-source-elisp-features$/;"	f
+ac+-valid-symbol-fun	auto-complete+.el	/^(defcustom ac+-valid-symbol-fun 'ac+-valid-symbolp$/;"	f
+ac+-valid-symbolp	auto-complete+.el	/^(defun ac+-valid-symbolp (symbol)$/;"	f
+auto-complete+	auto-complete+.el	/^(defgroup auto-complete+ nil$/;"	f
+ac-settings-4-autopair	auto-complete-settings.el	/^(defun ac-settings-4-autopair ()$/;"	f
+ac-settings-4-awk	auto-complete-settings.el	/^(defun ac-settings-4-awk ()$/;"	f
+ac-settings-4-c	auto-complete-settings.el	/^(defun ac-settings-4-c ()$/;"	f
+ac-settings-4-cc	auto-complete-settings.el	/^(defun ac-settings-4-cc ()$/;"	f
+ac-settings-4-cpp	auto-complete-settings.el	/^(defun ac-settings-4-cpp ()$/;"	f
+ac-settings-4-eshell	auto-complete-settings.el	/^(defun ac-settings-4-eshell ()$/;"	f
+ac-settings-4-html	auto-complete-settings.el	/^(defun ac-settings-4-html ()$/;"	f
+ac-settings-4-java	auto-complete-settings.el	/^(defun ac-settings-4-java ()$/;"	f
+ac-settings-4-lisp	auto-complete-settings.el	/^(defun ac-settings-4-lisp ()$/;"	f
+ac-settings-4-ruby	auto-complete-settings.el	/^(defun ac-settings-4-ruby ()$/;"	f
+ac-settings-4-tcl	auto-complete-settings.el	/^(defun ac-settings-4-tcl ()$/;"	f
+ac-settings-4-text	auto-complete-settings.el	/^(defun ac-settings-4-text ()$/;"	f
+auto-complete-settings	auto-complete-settings.el	/^(defun auto-complete-settings ()$/;"	f
+auto-insert-settings	auto-insert-settings.el	/^(defun auto-insert-settings ()$/;"	f
+autoconf-mode-settings	autoconf-mode-settings.el	/^(defun autoconf-mode-settings ()$/;"	f
+autopair-settings	autopair-settings.el	/^(defun autopair-settings ()$/;"	f
+base-face-settings	base-face-settings.el	/^(defun base-face-settings ()$/;"	f
+browse-kill-ring-face-settings	browse-kill-ring-face-settings.el	/^(defun browse-kill-ring-face-settings ()$/;"	f
+browse-kill-ring-settings	browse-kill-ring-settings.el	/^(defun browse-kill-ring-settings ()$/;"	f
+c-includes-settings	c-includes-settings.el	/^(defun c-includes-settings ()$/;"	f
+cc-mode-settings	c-settings.el	/^(defun cc-mode-settings ()$/;"	f
+cedet-cogre-uml-settings	cedet/cogre/cedet-cogre-settings.el	/^(defun cedet-cogre-uml-settings ()$/;"	f
+cedet-face-settings	cedet/common/cedet-face-settings.el	/^(defun cedet-face-settings ()$/;"	f
+semantic-tag-highlight-face-settings	cedet/common/cedet-face-settings.el	/^(defun semantic-tag-highlight-face-settings ()$/;"	f
+semantic-util-modes-face-settings	cedet/common/cedet-face-settings.el	/^(defun semantic-util-modes-face-settings ()$/;"	f
+cedet-settings-4-info	cedet/common/cedet-settings.el	/^(defun cedet-settings-4-info ()$/;"	f
+cedet-ede-settings	cedet/ede/cedet-ede-settings.el	/^(defun cedet-ede-settings ()$/;"	f
+cedet-eieio-settings	cedet/eieio/cedet-eieio-settings.el	/^(defun cedet-eieio-settings ()$/;"	f
+chart-settings	cedet/eieio/cedet-eieio-settings.el	/^(defun chart-settings ()$/;"	f
+cedet-semantic-idle-settings	cedet/semantic/cedet-semantic-settings.el	/^(defun cedet-semantic-idle-settings ()$/;"	f
+cedet-semantic-settings	cedet/semantic/cedet-semantic-settings.el	/^(defun cedet-semantic-settings ()$/;"	f
+semantic-decorate-include-settings	cedet/semantic/cedet-semantic-settings.el	/^(defun semantic-decorate-include-settings ()$/;"	f
+semantic-decorate-mode-settings	cedet/semantic/cedet-semantic-settings.el	/^(defun semantic-decorate-mode-settings ()$/;"	f
+cedet-speedbar-settings	cedet/speedbar/cedet-speedbar-settings.el	/^(defun cedet-speedbar-settings ()$/;"	f
+cedet-srecode-settings	cedet/srecode/cedet-srecode-settings.el	/^(defun cedet-srecode-settings ()$/;"	f
+codepilot-settings-4-emaci	codepilot-settings.el	/^(defun codepilot-settings-4-emaci ()$/;"	f
+revert-buffer-with-coding-system-no-confirm	coding-settings.el	/^(defun revert-buffer-with-coding-system-no-confirm (coding-system)$/;"	f
+revert-buffer-with-gbk	coding-settings.el	/^(defun revert-buffer-with-gbk ()$/;"	f
+ahei-hl-line-face	color-theme-ahei.el	/^(defface ahei-hl-line-face$/;"	f
+color-theme-ahei	color-theme-ahei.el	/^(defun color-theme-ahei ()$/;"	f
+color-theme-settings	color-theme-settings.el	/^(defun color-theme-settings ()$/;"	f
+cf-add-command	command-frequence.el	/^(defun cf-add-command ()$/;"	f
+cf-buffer-name	command-frequence.el	/^(defvar cf-buffer-name "*command frequence*" "the name of buffer command frequence")$/;"	f
+cf-clear-command-history	command-frequence.el	/^(defun cf-clear-command-history ()$/;"	f
+cf-command-history	command-frequence.el	/^(defvar cf-command-history nil "命令频率列表")$/;"	f
+cf-frequence-threshrold	command-frequence.el	/^(defvar cf-frequence-threshrold 1 "*显示命令报告的时候命令频率大于等于该值的时候才显示")$/;"	f
+cf-stat-self-insert-command	command-frequence.el	/^(defvar cf-stat-self-insert-command nil "*Non-nil means also statistic `self-insert-command'")$/;"	f
+command-frequence	command-frequence.el	/^(defun command-frequence ()$/;"	f
+company-mode-map	company-settings.el	/^(define-key company-mode-map (kbd "M-RET") 'company-expand-top)$/;"	f
+compile-face-settings	compile-face-settings.el	/^(defun compile-face-settings ()$/;"	f
+ant	compile-misc.el	/^(defun ant ()$/;"	f
+ant-clean	compile-misc.el	/^(defun ant-clean ()$/;"	f
+ant-test	compile-misc.el	/^(defun ant-test ()$/;"	f
+compile-buffer	compile-misc.el	/^(defun compile-buffer ()$/;"	f
+make	compile-misc.el	/^(defun make ()$/;"	f
+make-check	compile-misc.el	/^(defun make-check ()$/;"	f
+make-clean	compile-misc.el	/^(defun make-clean ()$/;"	f
+make-install	compile-misc.el	/^(defun make-install ()$/;"	f
+run-program	compile-misc.el	/^(defun run-program (command)$/;"	f
+compile-settings	compile-settings.el	/^(defun compile-settings ()$/;"	f
+cpl	compile-settings.el	/^(defalias 'cpl 'compile)$/;"	f
+makefile-mode-map-list	compile-settings.el	/^(defvar makefile-mode-map-list nil "the list of `makefile-mode-map'")$/;"	f
+conf-mode-settings	conf-mode-settings.el	/^(defun conf-mode-settings ()$/;"	f
+cua-settings	cua-settings.el	/^(defun cua-settings ()$/;"	f
+curchg-change-cursor-on-overwrite/read-only	cursor-change.el	/^(defun curchg-change-cursor-on-overwrite\/read-only ()$/;"	f
+cursor-change	cursor-change.el	/^(defgroup cursor-change nil$/;"	f
+cursor-change-get-cursor-type	cursor-change.el	/^(defun cursor-change-get-cursor-type (&optional frame)$/;"	f
+cursor-change-mode	cursor-change.el	/^(define-minor-mode cursor-change-mode$/;"	f
+cursor-change-old-blink-cursor-mode	cursor-change.el	/^(defvar cursor-change-old-blink-cursor-mode nil "`blink-cursor-mode' before toggle on function `crsor-change-mode'.")$/;"	f
+cursor-change-old-cursor-type	cursor-change.el	/^(defvar cursor-change-old-cursor-type nil "Cursor type before toggle on function `cursor-change-mode'.")$/;"	f
+describe-symbol-settings	describe-find-symbol-settings.el	/^(defun describe-symbol-settings ()$/;"	f
+find-symbol-settings	describe-find-symbol-settings.el	/^(defun find-symbol-settings ()$/;"	f
+char-to-fun	describe-symbol.el	/^(defun char-to-fun (c is-find &optional default)$/;"	f
+describe-face-at-point	describe-symbol.el	/^(defun describe-face-at-point ()$/;"	f
+describe-function-at-point	describe-symbol.el	/^(defun describe-function-at-point ()$/;"	f
+describe-symbol	describe-symbol.el	/^(defun describe-symbol (symbol &optional is-find)$/;"	f
+describe-symbol-at-point	describe-symbol.el	/^(defun describe-symbol-at-point ()$/;"	f
+describe-symbol-last-symbol	describe-symbol.el	/^(defvar describe-symbol-last-symbol 0 "`describe-symbol'最后查看的symbol")$/;"	f
+describe-variable-at-point	describe-symbol.el	/^(defun describe-variable-at-point ()$/;"	f
+valid-symbol-at-point	describe-symbol.el	/^(defun valid-symbol-at-point (&optional predicate)$/;"	f
+valid-symbol-p	describe-symbol.el	/^(defun valid-symbol-p (symbol)$/;"	f
+where-is-at-point	describe-symbol.el	/^(defun where-is-at-point ()$/;"	f
+copy-current-fun-name	dev-settings.el	/^(defun copy-current-fun-name ()$/;"	f
+generate-tag-table	dev-settings.el	/^(defun generate-tag-table ()$/;"	f
+skeleton-c-mode-left-brace	dev-settings.el	/^(defun skeleton-c-mode-left-brace (arg)$/;"	f
+diff-face-settings	diff-face-settings.el	/^(defun diff-face-settings ()$/;"	f
+diff-settings	diff-settings.el	/^(defun diff-settings ()$/;"	f
+dired+-face-settings	dired+-face-settings.el	/^(defun dired+-face-settings ()$/;"	f
+dired-lis-settings	dired-lis-settings.el	/^(defun dired-lis-settings ()$/;"	f
+dired-lis	dired-lis.el	/^(defgroup dired-lis nil$/;"	f
+dired-lis-bind-letter	dired-lis.el	/^(defun dired-lis-bind-letter()$/;"	f
+dired-lis-def-isearch-command	dired-lis.el	/^(defmacro dired-lis-def-isearch-command (fun-name isearch-command search-always)$/;"	f
+dired-lis-def-isearch-command-with-arg	dired-lis.el	/^(defmacro dired-lis-def-isearch-command-with-arg (fun-name isearch-command)$/;"	f
+dired-lis-default-isearch-up-directory-command	dired-lis.el	/^(defcustom dired-lis-default-isearch-up-directory-command 'c-electric-delete$/;"	f
+dired-lis-find-file-command	dired-lis.el	/^(defcustom dired-lis-find-file-command 'dired-lis-find-file-reuse-dir-buffer$/;"	f
+dired-lis-find-file-reuse-dir-buffer	dired-lis.el	/^(defun dired-lis-find-file-reuse-dir-buffer ()$/;"	f
+dired-lis-get-letter-list	dired-lis.el	/^(defun dired-lis-get-letter-list()$/;"	f
+dired-lis-isearch	dired-lis.el	/^(defun dired-lis-isearch ()$/;"	f
+dired-lis-isearch-always	dired-lis.el	/^(defvar dired-lis-isearch-always       nil "ISearch always in `dired-mode'.")$/;"	f
+dired-lis-isearch-command	dired-lis.el	/^(defcustom dired-lis-isearch-command 'dired-isearch-forward$/;"	f
+dired-lis-isearch-exit-command	dired-lis.el	/^(defcustom dired-lis-isearch-exit-command 'isearch-exit$/;"	f
+dired-lis-isearch-find-file	dired-lis.el	/^(defun dired-lis-isearch-find-file ()$/;"	f
+dired-lis-isearch-up-directory	dired-lis.el	/^(defun dired-lis-isearch-up-directory ()$/;"	f
+dired-lis-isearch-up-directory-command-alist	dired-lis.el	/^(defcustom dired-lis-isearch-up-directory-command-alist '((Info-mode Info-up))$/;"	f
+dired-lis-last-isearch-command	dired-lis.el	/^(defvar dired-lis-last-isearch-command nil "Last isearch command in `dired-mode'.")$/;"	f
+dired-lis-letter-list	dired-lis.el	/^(defcustom dired-lis-letter-list nil$/;"	f
+dired-lis-mode	dired-lis.el	/^(define-minor-mode dired-lis-mode$/;"	f
+dired-lis-mode-line-face	dired-lis.el	/^(defface dired-lis-mode-line-face$/;"	f
+dired-lis-mode-line-format	dired-lis.el	/^(defcustom dired-lis-mode-line-format (propertize "LIS" 'face 'dired-lis-mode-line-face)$/;"	f
+dired-lis-mode-map	dired-lis.el	/^(defvar dired-lis-mode-map nil "Keymap for letter isearch in `dired-mode'.")$/;"	f
+dired-lis-off	dired-lis.el	/^(defun dired-lis-off ()$/;"	f
+dired-lis-on	dired-lis.el	/^(defun dired-lis-on ()$/;"	f
+dired-lis-point-isearch-start	dired-lis.el	/^(defvar dired-lis-point-isearch-start  nil "Point when start isearch.")$/;"	f
+dired-lis-wrap-automatically	dired-lis.el	/^(defcustom dired-lis-wrap-automatically nil$/;"	f
+dired-lis-yank-char	dired-lis.el	/^(defun dired-lis-yank-char ()$/;"	f
+global-dired-lis-mode	dired-lis.el	/^(define-globalized-minor-mode global-dired-lis-mode dired-lis-mode dired-lis-on)$/;"	f
+isearch-mode-map	dired-lis.el	/^(define-key isearch-mode-map (kbd "RET") 'dired-lis-isearch-find-file)$/;"	f
+dired-settings	dired-settings.el	/^(defun dired-settings ()$/;"	f
+dired-x-settings	dired-x-settings.el	/^(defun dired-x-settings ()$/;"	f
+doremi-settings	doremi-settings.el	/^(defun doremi-settings ()$/;"	f
+doxymacs-settings	doxymacs-settings.el	/^(defun doxymacs-settings ()$/;"	f
+eagle-settings	eagle-settings.el	/^(defun eagle-settings ()$/;"	f
+eagle	eagle.el	/^(defgroup eagle nil$/;"	f
+eagle--query-for-post-exit-minibuffer	eagle.el	/^(defun eagle--query-for-post-exit-minibuffer ()$/;"	f
+eagle--query-for-post-minibuffer-setup	eagle.el	/^(defun eagle--query-for-post-minibuffer-setup ()$/;"	f
+eagle--query-for-post-update	eagle.el	/^(defun eagle--query-for-post-update (&optional beg end length invert)$/;"	f
+eagle-alert	eagle.el	/^(defun eagle-alert (msg &optional title)$/;"	f
+eagle-at-tweets	eagle.el	/^(defun eagle-at-tweets (&optional page)$/;"	f
+eagle-at-tweets-buffer-name-format	eagle.el	/^(defcustom eagle-at-tweets-buffer-name-format "*Twitter @%s*"$/;"	f
+eagle-at-tweets-internal	eagle.el	/^(defun eagle-at-tweets-internal (&optional page sync)$/;"	f
+eagle-at-tweets-sync	eagle.el	/^(defun eagle-at-tweets-sync (&optional page)$/;"	f
+eagle-clean-temp-data	eagle.el	/^(defun eagle-clean-temp-data ()$/;"	f
+eagle-clean-tweets-buffer	eagle.el	/^(defun eagle-clean-tweets-buffer ()$/;"	f
+eagle-compile-format-string	eagle.el	/^(defun eagle-compile-format-string (format-string)$/;"	f
+eagle-confirm-kill-status-edit	eagle.el	/^(defun eagle-confirm-kill-status-edit ()$/;"	f
+eagle-created-auth	eagle.el	/^(defvar eagle-created-auth nil "Created auth or not.")$/;"	f
+eagle-cur-time-format	eagle.el	/^(defcustom eagle-cur-time-format "%Y-%m-%d %T"$/;"	f
+eagle-current-displaying-tweets	eagle.el	/^(defvar eagle-current-displaying-tweets nil "Current tweets displaying in buffer.")$/;"	f
+eagle-cursor-point-when-next-tweet	eagle.el	/^(defcustom eagle-cursor-point-when-next-tweet 'eagle-tweet-text$/;"	f
+eagle-debug	eagle.el	/^(defcustom eagle-debug nil$/;"	f
+eagle-delete-last-n-tweets-displaying	eagle.el	/^(defun eagle-delete-last-n-tweets-displaying (n)$/;"	f
+eagle-direct	eagle.el	/^(defun eagle-direct (user msg)$/;"	f
+eagle-direct-with-account	eagle.el	/^(defun eagle-direct-with-account (account)$/;"	f
+eagle-display-error	eagle.el	/^(defun eagle-display-error (xml)$/;"	f
+eagle-emacs-lisp-regex	eagle.el	/^(defconst eagle-emacs-lisp-regex "\\\\([a-zA-Z0-9-.]+\\\\)\\\\.el"$/;"	f
+eagle-enter-eagle-mode	eagle.el	/^(defun eagle-enter-eagle-mode ()$/;"	f
+eagle-execute-in-eagle-mode	eagle.el	/^(defmacro eagle-execute-in-eagle-mode (&rest forms)$/;"	f
+eagle-fetched-tweets-displayed	eagle.el	/^(defvar eagle-fetched-tweets-displayed  nil "Fetched tweets is dispalyed or not.")$/;"	f
+eagle-fill-string	eagle.el	/^(defun eagle-fill-string (str)$/;"	f
+eagle-filter-at-tweets	eagle.el	/^(defcustom eagle-filter-at-tweets nil$/;"	f
+eagle-filter-diarrhea	eagle.el	/^(defcustom eagle-filter-diarrhea 0$/;"	f
+eagle-filter-tweet	eagle.el	/^(defun eagle-filter-tweet (message author)$/;"	f
+eagle-filter-tweets-regex	eagle.el	/^(defcustom eagle-filter-tweets-regex ""$/;"	f
+eagle-first-tweet	eagle.el	/^(defun eagle-first-tweet ()$/;"	f
+eagle-follow-idle-interval	eagle.el	/^(defcustom eagle-follow-idle-interval 90$/;"	f
+eagle-format-time-for-display	eagle.el	/^(defun eagle-format-time-for-display (time)$/;"	f
+eagle-frame-configuration	eagle.el	/^(defvar eagle-frame-configuration nil$/;"	f
+eagle-get-header-error	eagle.el	/^(defun eagle-get-header-error (header)$/;"	f
+eagle-get-node-text	eagle.el	/^(defun eagle-get-node-text (node)$/;"	f
+eagle-get-screenname	eagle.el	/^(defun eagle-get-screenname (status-node)$/;"	f
+eagle-get-status	eagle.el	/^(defun eagle-get-status ()$/;"	f
+eagle-get-text-property	eagle.el	/^(defun eagle-get-text-property (propname)$/;"	f
+eagle-get-thing-start	eagle.el	/^(defun eagle-get-thing-start (thing tweet-overlay)$/;"	f
+eagle-get-tweet-overlay	eagle.el	/^(defun eagle-get-tweet-overlay (pos)$/;"	f
+eagle-get-tweet-text-start	eagle.el	/^(defun eagle-get-tweet-text-start (tweet-overlay)$/;"	f
+eagle-get-user-image	eagle.el	/^(defun eagle-get-user-image (url user-id)$/;"	f
+eagle-hash-at-face	eagle.el	/^(defface eagle-hash-at-face$/;"	f
+eagle-hash-at-regex	eagle.el	/^(defconst eagle-hash-at-regex "\\\\([#@][a-zA-Z0-9_.]+\\\\)"$/;"	f
+eagle-home	eagle.el	/^(defun eagle-home (&optional page)$/;"	f
+eagle-home-buffer-name	eagle.el	/^(defcustom eagle-home-buffer-name "*Twitter home*"$/;"	f
+eagle-home-internal	eagle.el	/^(defun eagle-home-internal (&optional page sync tc)$/;"	f
+eagle-home-sync	eagle.el	/^(defun eagle-home-sync (&optional page)$/;"	f
+eagle-home-sync-tc	eagle.el	/^(defun eagle-home-sync-tc (&optional page)$/;"	f
+eagle-home-tc	eagle.el	/^(defun eagle-home-tc (&optional page)$/;"	f
+eagle-home-update	eagle.el	/^(defun eagle-home-update (&optional switch to-first)$/;"	f
+eagle-home-update-internal	eagle.el	/^(defun eagle-home-update-internal (&optional notify switch to-first)$/;"	f
+eagle-http-port	eagle.el	/^(defcustom eagle-http-port 80$/;"	f
+eagle-https-port	eagle.el	/^(defcustom eagle-https-port 443$/;"	f
+eagle-info-face	eagle.el	/^(defface eagle-info-face$/;"	f
+eagle-insert-image	eagle.el	/^(defun eagle-insert-image (status-node)$/;"	f
+eagle-insert-source	eagle.el	/^(defun eagle-insert-source (status-node)$/;"	f
+eagle-insert-status-part-for-command	eagle.el	/^(defun eagle-insert-status-part-for-command (status-node command)$/;"	f
+eagle-insert-tweet-attribute	eagle.el	/^(defun eagle-insert-tweet-attribute (status-node command)$/;"	f
+eagle-insert-tweet-text	eagle.el	/^(defun eagle-insert-tweet-text (status-node command)$/;"	f
+eagle-insert-tweet-time	eagle.el	/^(defun eagle-insert-tweet-time (status-node)$/;"	f
+eagle-is-recent-tweets-first-page	eagle.el	/^(defvar eagle-is-recent-tweets-first-page nil$/;"	f
+eagle-keymap-and-fontify-message	eagle.el	/^(defun eagle-keymap-and-fontify-message (message)$/;"	f
+eagle-kill-buffer-hook	eagle.el	/^(defun eagle-kill-buffer-hook ()$/;"	f
+eagle-kill-status-buffer	eagle.el	/^(defun eagle-kill-status-buffer ()$/;"	f
+eagle-last-fetched-tweet-id	eagle.el	/^(defvar eagle-last-fetched-tweet-id     nil "Last fetched tweet id.")$/;"	f
+eagle-last-fetched-tweets	eagle.el	/^(defvar eagle-last-fetched-tweets       nil "Last fetched tweets.")$/;"	f
+eagle-last-tweet	eagle.el	/^(defun eagle-last-tweet ()$/;"	f
+eagle-location-face	eagle.el	/^(defface eagle-location-face$/;"	f
+eagle-max-display-tweets-count	eagle.el	/^(defcustom eagle-max-display-tweets-count 50$/;"	f
+eagle-max-todochiku-tweets-count	eagle.el	/^(defcustom eagle-max-todochiku-tweets-count 5$/;"	f
+eagle-maximum-tweet-length	eagle.el	/^(defconst eagle-maximum-tweet-length 140$/;"	f
+eagle-message-face	eagle.el	/^(defface eagle-message-face$/;"	f
+eagle-mode	eagle.el	/^(define-derived-mode eagle-mode text-mode$/;"	f
+eagle-mode-map	eagle.el	/^(defvar eagle-mode-map (make-sparse-keymap) "Keymap for `eagle-mode'.")$/;"	f
+eagle-month-map	eagle.el	/^(defconst eagle-month-map$/;"	f
+eagle-new-tweets-hook	eagle.el	/^(defcustom eagle-new-tweets-hook$/;"	f
+eagle-next-tweet	eagle.el	/^(defun eagle-next-tweet (&optional arg)$/;"	f
+eagle-next-tweet-internal	eagle.el	/^(defun eagle-next-tweet-internal (next &optional arg)$/;"	f
+eagle-post	eagle.el	/^(defun eagle-post (prefix)$/;"	f
+eagle-post-loud-reply	eagle.el	/^(defun eagle-post-loud-reply ()$/;"	f
+eagle-post-reply	eagle.el	/^(defun eagle-post-reply ()$/;"	f
+eagle-post-retweet	eagle.el	/^(defun eagle-post-retweet ()$/;"	f
+eagle-post-to	eagle.el	/^(defun eagle-post-to ()$/;"	f
+eagle-post-url	eagle.el	/^(defun eagle-post-url ()$/;"	f
+eagle-post-with-account	eagle.el	/^(defun eagle-post-with-account (account post)$/;"	f
+eagle-previous-tweet	eagle.el	/^(defun eagle-previous-tweet (&optional arg)$/;"	f
+eagle-query-for-post	eagle.el	/^(defun eagle-query-for-post (prompt-heading initial-input)$/;"	f
+eagle-recent-tweets-header-format	eagle.el	/^(defcustom eagle-recent-tweets-header-format "Recent tweets (Page %s) [%s]"$/;"	f
+eagle-recent-tweets-no-page-header-format	eagle.el	/^(defcustom eagle-recent-tweets-no-page-header-format "Recent tweets [%s]"$/;"	f
+eagle-replace-enter	eagle.el	/^(defcustom eagle-replace-enter nil$/;"	f
+eagle-reply	eagle.el	/^(defun eagle-reply (pos)$/;"	f
+eagle-reply-button-pressed	eagle.el	/^(defun eagle-reply-button-pressed (button)$/;"	f
+eagle-save-twitter-password	eagle.el	/^(defcustom eagle-save-twitter-password nil$/;"	f
+eagle-screenname-face	eagle.el	/^(defface eagle-screenname-face$/;"	f
+eagle-set-api-domain	eagle.el	/^(defun eagle-set-api-domain (domain)$/;"	f
+eagle-set-api-protocol	eagle.el	/^(defun eagle-set-api-protocol (protocol)$/;"	f
+eagle-set-auth	eagle.el	/^(defun eagle-set-auth (user pass)$/;"	f
+eagle-set-password	eagle.el	/^(defun eagle-set-password (pass)$/;"	f
+eagle-set-status-format	eagle.el	/^(defun eagle-set-status-format (&optional format)$/;"	f
+eagle-set-username	eagle.el	/^(defun eagle-set-username (username)$/;"	f
+eagle-set-username-password	eagle.el	/^(defun eagle-set-username-password (&optional force)$/;"	f
+eagle-show-page	eagle.el	/^(defun eagle-show-page (xml page tc &optional buffer-name is-record)$/;"	f
+eagle-show-page-callback	eagle.el	/^(defun eagle-show-page-callback (status url xml cbargs)$/;"	f
+eagle-small-info-face	eagle.el	/^(defface eagle-small-info-face$/;"	f
+eagle-source-face	eagle.el	/^(defface eagle-source-face$/;"	f
+eagle-start-update-status	eagle.el	/^(defun eagle-start-update-status ()$/;"	f
+eagle-status-buffer-name	eagle.el	/^(defcustom eagle-status-buffer-name "*Twitter status*"$/;"	f
+eagle-status-commands	eagle.el	/^(defconst eagle-status-commands$/;"	f
+eagle-status-compiled-format	eagle.el	/^(defvar eagle-status-compiled-format nil$/;"	f
+eagle-status-edit	eagle.el	/^(defun eagle-status-edit ()$/;"	f
+eagle-status-edit-after-change	eagle.el	/^(defun eagle-status-edit-after-change (begin end old-size)$/;"	f
+eagle-status-edit-mode	eagle.el	/^(define-derived-mode eagle-status-edit-mode text-mode "Twitter Status Edit"$/;"	f
+eagle-status-edit-mode-map	eagle.el	/^(defvar eagle-status-edit-mode-map (make-sparse-keymap) "Keymap for `eagle-status-edit-mode'.")$/;"	f
+eagle-status-edit-update-length	eagle.el	/^(defun eagle-status-edit-update-length ()$/;"	f
+eagle-status-format	eagle.el	/^(defcustom eagle-status-format$/;"	f
+eagle-status-normal-len-face	eagle.el	/^(defface eagle-status-normal-len-face$/;"	f
+eagle-status-overlong-face	eagle.el	/^(defface eagle-status-overlong-face$/;"	f
+eagle-status-remaining-length-format	eagle.el	/^(defcustom eagle-status-remaining-length-format "Status remaining length: %s"$/;"	f
+eagle-switch-home-when-new-tweets	eagle.el	/^(defcustom eagle-switch-home-when-new-tweets nil$/;"	f
+eagle-switch-to-home	eagle.el	/^(defun eagle-switch-to-home ()$/;"	f
+eagle-tc-home-callback	eagle.el	/^(defun eagle-tc-home-callback (status url xml &optional cbargs)$/;"	f
+eagle-tc-mode	eagle.el	/^(define-minor-mode eagle-tc-mode$/;"	f
+eagle-tc-mode-line-face	eagle.el	/^(defface eagle-tc-mode-line-face$/;"	f
+eagle-tc-mode-line-format	eagle.el	/^(defcustom eagle-tc-mode-line-format$/;"	f
+eagle-tc-mode-off	eagle.el	/^(defun eagle-tc-mode-off ()$/;"	f
+eagle-tc-mode-off-right	eagle.el	/^(defun eagle-tc-mode-off-right ()$/;"	f
+eagle-tc-mode-on	eagle.el	/^(defun eagle-tc-mode-on ()$/;"	f
+eagle-tc-timer-function	eagle.el	/^(defun eagle-tc-timer-function ()$/;"	f
+eagle-text-logo	eagle.el	/^(defconst eagle-text-logo "eagle" "Text log of eagle.")$/;"	f
+eagle-this-tweet	eagle.el	/^(defun eagle-this-tweet ()$/;"	f
+eagle-time-face	eagle.el	/^(defface eagle-time-face$/;"	f
+eagle-time-format	eagle.el	/^(defcustom eagle-time-format 'eagle-format-time-for-display$/;"	f
+eagle-time-to-time	eagle.el	/^(defun eagle-time-to-time (time)$/;"	f
+eagle-timer	eagle.el	/^(defvar eagle-timer nil$/;"	f
+eagle-title-face	eagle.el	/^(defface eagle-title-face$/;"	f
+eagle-todochiku-last-fetched-tweets	eagle.el	/^(defun eagle-todochiku-last-fetched-tweets (tweets)$/;"	f
+eagle-too-long-face	eagle.el	/^(defface eagle-too-long-face$/;"	f
+eagle-tweet-overlong-overlay	eagle.el	/^(defvar eagle-tweet-overlong-overlay nil$/;"	f
+eagle-tweet-start	eagle.el	/^(defun eagle-tweet-start (overlay)$/;"	f
+eagle-twitter-password	eagle.el	/^(defcustom eagle-twitter-password nil$/;"	f
+eagle-twitter-source	eagle.el	/^(defcustom eagle-twitter-source$/;"	f
+eagle-twitter-username	eagle.el	/^(defcustom eagle-twitter-username nil$/;"	f
+eagle-twitter-username-face	eagle.el	/^(defface eagle-twitter-username-face$/;"	f
+eagle-unknown-screenname	eagle.el	/^(defcustom eagle-unknown-screenname "unknown"$/;"	f
+eagle-update-status	eagle.el	/^(defun eagle-update-status (&optional sync)$/;"	f
+eagle-update-status-callback	eagle.el	/^(defun eagle-update-status-callback (status url xml cbargs)$/;"	f
+eagle-update-status-core	eagle.el	/^(defun eagle-update-status-core (xml msg &optional buffer-name)$/;"	f
+eagle-update-status-internal	eagle.el	/^(defun eagle-update-status-internal (status msg &optional reply-id sync)$/;"	f
+eagle-url-face	eagle.el	/^(defface eagle-url-face$/;"	f
+eagle-url-regex	eagle.el	/^(defconst eagle-url-regex "\\\\(http:\/\/[a-zA-Z0-9.]+\\.[a-zA-Z0-9%#;~\/.=+&$,?@-]+\\\\)"$/;"	f
+eagle-user-commands	eagle.el	/^(defconst eagle-user-commands$/;"	f
+eagle-user-image-list	eagle.el	/^(defvar eagle-user-image-list 'nil "List containing all user images.")$/;"	f
+eagle-version-number	eagle.el	/^(defvar eagle-version-number "1.0")$/;"	f
+eagle-with-buffer	eagle.el	/^(defmacro eagle-with-buffer (buffer-name &rest forms)$/;"	f
+eagle-write-fetched-tweets	eagle.el	/^(defun eagle-write-fetched-tweets ()$/;"	f
+eagle-write-title	eagle.el	/^(defun eagle-write-title (title &rest args)$/;"	f
+eagle-write-tweet	eagle.el	/^(defun eagle-write-tweet (status-node &optional filter-tweets times-through)$/;"	f
+eagle-write-tweets	eagle.el	/^(defun eagle-write-tweets (status-nodes is-record)$/;"	f
+eagle-write-tweets-page	eagle.el	/^(defun eagle-write-tweets-page (status-nodes &optional page is-record)$/;"	f
+eagle-write-tweets-page-use-xml	eagle.el	/^(defun eagle-write-tweets-page-use-xml (xml &optional page is-record)$/;"	f
+eagle-write-tweets-use-tweets-data	eagle.el	/^(defun eagle-write-tweets-use-tweets-data (write-tweets-fun tweets-data &optional page is-record)$/;"	f
+eagle-write-tweets-use-xml	eagle.el	/^(defun eagle-write-tweets-use-xml (xml-data is-record)$/;"	f
+eagle-write-user-image	eagle.el	/^(defun eagle-write-user-image (status url user-id)$/;"	f
+nthcar	eagle.el	/^(defun nthcar (n list)$/;"	f
+ecb	ecb-settings.el	/^(defun ecb ()$/;"	f
+ecb-settings	ecb-settings.el	/^(defun ecb-settings ()$/;"	f
+edebug-clear-global-break-condition	edebug-settings.el	/^(defun edebug-clear-global-break-condition ()$/;"	f
+ediff+	ediff+.el	/^(defgroup ediff+ nil$/;"	f
+ediff+-goto-buffer-a	ediff+.el	/^(defun ediff+-goto-buffer-a ()$/;"	f
+ediff+-goto-buffer-b	ediff+.el	/^(defun ediff+-goto-buffer-b ()$/;"	f
+ediff+-ignore-whitespace	ediff+.el	/^(defcustom ediff+-ignore-whitespace t$/;"	f
+ediff+-ignore-whitespace-option	ediff+.el	/^(defcustom ediff+-ignore-whitespace-option "-w"$/;"	f
+ediff+-ignore-whitespace-option3	ediff+.el	/^(defcustom ediff+-ignore-whitespace-option3 ""$/;"	f
+ediff+-previous-line	ediff+.el	/^(defun ediff+-previous-line ()$/;"	f
+ediff+-set-actual-diff-options	ediff+.el	/^(defun ediff+-set-actual-diff-options ()$/;"	f
+ediff+-toggle-ignore-whitespace	ediff+.el	/^(defun ediff+-toggle-ignore-whitespace ()$/;"	f
+ediff-sequent-lines	ediff+.el	/^(defun ediff-sequent-lines ()$/;"	f
+ediff-face-settings	ediff-face-settings.el	/^(defun ediff-face-settings ()$/;"	f
+ediff-settings	ediff-settings.el	/^(defun ediff-settings ()$/;"	f
+backward-kill-word-or-kill-region	edit-misc.el	/^(defun backward-kill-word-or-kill-region ()$/;"	f
+c-electric-backspace-kill	edit-misc.el	/^(defun c-electric-backspace-kill ()$/;"	f
+case-trans	edit-misc.el	/^(defun case-trans ()$/;"	f
+comment	edit-misc.el	/^(defun comment (&optional arg)$/;"	f
+comment-function	edit-misc.el	/^(defun comment-function (&optional arg)$/;"	f
+copy-cur-line	edit-misc.el	/^(defun copy-cur-line ()$/;"	f
+copy-line-left	edit-misc.el	/^(defun copy-line-left ()$/;"	f
+copy-lines	edit-misc.el	/^(defun copy-lines (&optional number)$/;"	f
+copy-region-and-paste	edit-misc.el	/^(defun copy-region-and-paste ()$/;"	f
+copy-sentence	edit-misc.el	/^(defun copy-sentence ()$/;"	f
+copy-sexp	edit-misc.el	/^(defun copy-sexp (&optional not-whole)$/;"	f
+copy-whole-paragraph	edit-misc.el	/^(defun copy-whole-paragraph (&optional arg)$/;"	f
+def-action-on-function-command	edit-misc.el	/^(defmacro def-action-on-function-command (fun-name action action-str)$/;"	f
+del-to-begin	edit-misc.el	/^(defun del-to-begin (&optional arg)$/;"	f
+delete-blank-lines-region	edit-misc.el	/^(defun delete-blank-lines-region (beg end)$/;"	f
+fill-paragraph-justify	edit-misc.el	/^(defun fill-paragraph-justify (region)$/;"	f
+insert-cur-line	edit-misc.el	/^(defun insert-cur-line ()$/;"	f
+insert-cur-sexp	edit-misc.el	/^(defun insert-cur-sexp ()$/;"	f
+kill-whole-paragraph	edit-misc.el	/^(defun kill-whole-paragraph (&optional arg)$/;"	f
+kill-whole-sexp	edit-misc.el	/^(defun kill-whole-sexp (&optional not-whole)$/;"	f
+lisp-mark-function	edit-misc.el	/^(defun lisp-mark-function (&optional allow-extend)$/;"	f
+mark-function	edit-misc.el	/^(defun mark-function ()$/;"	f
+mark-invisible-region	edit-misc.el	/^(defun mark-invisible-region ()$/;"	f
+mark-whole-sexp	edit-misc.el	/^(defun mark-whole-sexp (&optional not-whole)$/;"	f
+my-kill-word	edit-misc.el	/^(defun my-kill-word ()$/;"	f
+smart-copy	edit-misc.el	/^(defun smart-copy ()$/;"	f
+smart-delete-blank-lines	edit-misc.el	/^(defun smart-delete-blank-lines (&optional no-region)$/;"	f
+smart-home	edit-misc.el	/^(defun smart-home (&optional home)$/;"	f
+smart-indent	edit-misc.el	/^(defun smart-indent ()$/;"	f
+smart-kill	edit-misc.el	/^(defun smart-kill ()$/;"	f
+uncomment	edit-misc.el	/^(defun uncomment (&optional arg)$/;"	f
+which-copy	edit-misc.el	/^(defun which-copy ()$/;"	f
+def-action-on-area-command	edit-settings.el	/^(defmacro def-action-on-area-command (fun-name action mark-area doc)$/;"	f
+def-redo-command	edit-settings.el	/^(defmacro def-redo-command (fun-name redo undo)$/;"	f
+minibuffer-local-completion-map	edit-settings.el	/^(define-key minibuffer-local-completion-map (kbd "C-k") 'kill-line)$/;"	f
+redo	edit-settings.el	/^(def-redo-command redo 'redo 'undo)$/;"	f
+eldoc-face-settings	eldoc-face-settings.el	/^(defun eldoc-face-settings ()$/;"	f
+eldoc-settings	eldoc-settings.el	/^(defun eldoc-settings ()$/;"	f
+emaci-settings	emaci-settings.el	/^(defun emaci-settings ()$/;"	f
+emaci	emaci.el	/^(defgroup emaci nil$/;"	f
+emaci-add-key-definition	emaci.el	/^(defun emaci-add-key-definition (key command &optional condition)$/;"	f
+emaci-bind-brief-keys	emaci.el	/^(defun emaci-bind-brief-keys ()$/;"	f
+emaci-bol-and-quit	emaci.el	/^(defun emaci-bol-and-quit ()$/;"	f
+emaci-brief-key-defs	emaci.el	/^(defcustom emaci-brief-key-defs$/;"	f
+emaci-def-brief-key-command	emaci.el	/^(defmacro emaci-def-brief-key-command (command-name command-alist)$/;"	f
+emaci-eol-and-quit	emaci.el	/^(defun emaci-eol-and-quit ()$/;"	f
+emaci-exist-file	emaci.el	/^(defun emaci-exist-file ()$/;"	f
+emaci-key-command-alist	emaci.el	/^(defcustom emaci-key-command-alist$/;"	f
+emaci-make-brief-key-command	emaci.el	/^(defun emaci-make-brief-key-command (key)$/;"	f
+emaci-make-brief-key-commands	emaci.el	/^(defun emaci-make-brief-key-commands ()$/;"	f
+emaci-maps-to-bind-brief-keys	emaci.el	/^(defcustom emaci-maps-to-bind-brief-keys$/;"	f
+emaci-mode	emaci.el	/^(define-minor-mode emaci-mode$/;"	f
+emaci-mode-line-face	emaci.el	/^(defface emaci-mode-line-face$/;"	f
+emaci-mode-line-format	emaci.el	/^(defcustom emaci-mode-line-format (propertize "Emaci" 'face 'emaci-mode-line-face)$/;"	f
+emaci-mode-map	emaci.el	/^(defvar emaci-mode-map nil "Keymap for function `emaci-mode'.")$/;"	f
+emaci-mode-off	emaci.el	/^(defun emaci-mode-off ()$/;"	f
+emaci-mode-on	emaci.el	/^(defun emaci-mode-on ()$/;"	f
+emaci-newline-and-quit	emaci.el	/^(defun emaci-newline-and-quit ()$/;"	f
+emaci-read-only	emaci.el	/^(defvar emaci-read-only nil "Readonly before enter in function `emaci-mode' or not.")$/;"	f
+emaci-roll-down	emaci.el	/^(defun emaci-roll-down (&optional n)$/;"	f
+emaci-roll-up	emaci.el	/^(defun emaci-roll-up (&optional n)$/;"	f
+emacs-lisp-mode-settings	emacs-lisp-mode-settings.el	/^(defun emacs-lisp-mode-settings ()$/;"	f
+erc-settings	erc-settings.el	/^(defun erc-settings ()$/;"	f
+login-irc	erc-settings.el	/^(defun login-irc ()$/;"	f
+eshell-settings	eshell-settings.el	/^(defun eshell-settings ()$/;"	f
+eal	eval-after-load.el	/^(defgroup eal nil$/;"	f
+eal-define-key	eval-after-load.el	/^(defun eal-define-key (keymap key def)$/;"	f
+eal-define-keys	eval-after-load.el	/^(defun eal-define-keys (keymaps key-defs)$/;"	f
+eal-define-keys-commonly	eval-after-load.el	/^(defun eal-define-keys-commonly (keymap key-defs)$/;"	f
+eal-eval-by-maps	eval-after-load.el	/^(defun eal-eval-by-maps (maps fun)$/;"	f
+eal-eval-by-modes	eval-after-load.el	/^(defun eal-eval-by-modes (modes fun)$/;"	f
+eal-eval-by-symbol	eval-after-load.el	/^(defun eal-eval-by-symbol (symbol pos fun)$/;"	f
+eal-eval-by-symbols	eval-after-load.el	/^(defun eal-eval-by-symbols (symbols pos fun)$/;"	f
+eal-find-loadfile-by-map	eval-after-load.el	/^(defun eal-find-loadfile-by-map (map)$/;"	f
+eal-find-loadfile-by-mode	eval-after-load.el	/^(defun eal-find-loadfile-by-mode (mode)$/;"	f
+eal-find-loadfile-by-symbol	eval-after-load.el	/^(defun eal-find-loadfile-by-symbol (symbol pos)$/;"	f
+eal-get-name-by-loadfile	eval-after-load.el	/^(defun eal-get-name-by-loadfile (file pos)$/;"	f
+eal-loadfile-mode-maps	eval-after-load.el	/^(defcustom eal-loadfile-mode-maps$/;"	f
+hl-line-nonunderline-face	face-settings.el	/^(defface hl-line-nonunderline-face$/;"	f
+use-black-background	face-settings.el	/^(defvar use-black-background t "*Use black ground or not.")$/;"	f
+ffap-settings	ffap-settings.el	/^(defun ffap-settings ()$/;"	f
+find-symbol	find-symbol.el	/^(defun find-symbol (symbol)$/;"	f
+find-symbol-at-point	find-symbol.el	/^(defun find-symbol-at-point ()$/;"	f
+find-symbol-face-at-point	find-symbol.el	/^(defun find-symbol-face-at-point ()$/;"	f
+find-symbol-fun-at-point	find-symbol.el	/^(defun find-symbol-fun-at-point ()$/;"	f
+find-symbol-fun-on-key	find-symbol.el	/^(defun find-symbol-fun-on-key (key)$/;"	f
+find-symbol-go-back	find-symbol.el	/^(defun find-symbol-go-back ()$/;"	f
+find-symbol-var-at-point	find-symbol.el	/^(defun find-symbol-var-at-point ()$/;"	f
+fs-is-record-point	find-symbol.el	/^(defvar fs-is-record-point t "是否记录`find-symbol'到过的位置")$/;"	f
+fs-last-symbol	find-symbol.el	/^(defvar fs-last-symbol 0 "`find-symbol'最后查看的symbol")$/;"	f
+fs-point-ring	find-symbol.el	/^(defvar fs-point-ring nil "存放`find-symbol'到过的位置的环")$/;"	f
+fs-point-ring-size	find-symbol.el	/^(defvar fs-point-ring-size 200 "The size of ring `fs-point-ring'")$/;"	f
+fs-pop-point	find-symbol.el	/^(defun fs-pop-point ()$/;"	f
+fs-push-point	find-symbol.el	/^(defun fs-push-point ()$/;"	f
+flymake-mode-map	flymake-settings.el	/^(defvar flymake-mode-map (make-sparse-keymap))$/;"	f
+flymake-settings	flymake-settings.el	/^(defun flymake-settings ()$/;"	f
+font-lock-face-settings	font-lock-face-settings.el	/^(defun font-lock-face-settings ()$/;"	f
+full-ack-settings	full-ack-settings.el	/^(defun full-ack-settings ()$/;"	f
+google-maps-settings	google-maps-settings.el	/^(defun google-maps-settings ()$/;"	f
+find-grep-current-word	grep-settings.el	/^(defun find-grep-current-word (dir &optional is-prompt)$/;"	f
+find-grep-current-word-in-current-dir	grep-settings.el	/^(defun find-grep-current-word-in-current-dir (&optional is-prompt)$/;"	f
+find-grep-in-current-dir	grep-settings.el	/^(defun find-grep-in-current-dir (dir)$/;"	f
+find-grep-in-dir	grep-settings.el	/^(defun find-grep-in-dir (dir)$/;"	f
+grep-find-prompt	grep-settings.el	/^(defvar grep-find-prompt$/;"	f
+grep-settings	grep-settings.el	/^(defun grep-settings ()$/;"	f
+set-default-grep-command	grep-settings.el	/^(defun set-default-grep-command ()$/;"	f
+set-grep-command	grep-settings.el	/^(defun set-grep-command (command)$/;"	f
+gud-settings	gud-settings.el	/^(defun gud-settings ()$/;"	f
+help-mode-face-settings	help-mode-face-settings.el	/^(defun help-mode-face-settings ()$/;"	f
+global-map	help-mode-settings.el	/^(define-key global-map (kbd "C-x H") 'goto-help-buffer)$/;"	f
+help-mode-settings	help-mode-settings.el	/^(defun help-mode-settings ()$/;"	f
+hif-find-next-relevant	hide-ifdef-settings.el	/^(defun hif-find-next-relevant ()$/;"	f
+hif-goto-endif	hide-ifdef-settings.el	/^(defun hif-goto-endif ()$/;"	f
+hif-goto-if	hide-ifdef-settings.el	/^(defun hif-goto-if ()$/;"	f
+hif-gototo-else	hide-ifdef-settings.el	/^(defun hif-gototo-else ()$/;"	f
+hide-region-settings	hide-region-settings.el	/^(defun hide-region-settings ()$/;"	f
+highlight-symbol-face-settings	highlight-symbol-face-settings.el	/^(defun highlight-symbol-face-settings ()$/;"	f
+highlight-symbol-settings	highlight-symbol-settings.el	/^(defun highlight-symbol-settings ()$/;"	f
+highlight-tail-face-settings	highlight-tail-face-settings.el	/^(defun highlight-tail-face-settings ()$/;"	f
+hippie-expand-settings	hippie-expand-settings.el	/^(defun hippie-expand-settings ()$/;"	f
+hs-minor-mode-face-settings	hs-minor-mode-face-settings.el	/^(defun hs-minor-mode-face-settings ()$/;"	f
+hs-minor-mode-settings	hs-minor-mode-settings.el	/^(defun hs-minor-mode-settings ()$/;"	f
+html-mode-settings	html-mode-settings.el	/^(defun html-mode-settings ()$/;"	f
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+icicles-settings	icicles-settings.el	/^(defun icicles-settings ()$/;"	f
+icomplete+-face-settings	icomplete+-face-settings.el	/^(defun icomplete+-face-settings ()$/;"	f
+icomplete-settings	icomplete-settings.el	/^(defun icomplete-settings ()$/;"	f
+ido-face-settings	ido-face-settings.el	/^(defun ido-face-settings ()$/;"	f
+ido-settings	ido-settings.el	/^(defun ido-settings ()$/;"	f
+ifdef-settings	ifdef-settings.el	/^(defun ifdef-settings ()$/;"	f
+image-mode-settings	image-mode-settings.el	/^(defun image-mode-settings ()$/;"	f
+imenu-tree-settings	imenu-tree-settings.el	/^(defun imenu-tree-settings ()$/;"	f
+info+-face-settings	info+-face-settings.el	/^(defun info+-face-settings ()$/;"	f
+info-face-settings	info-face-settings.el	/^(defun info-face-settings ()$/;"	f
+info-settings	info-settings.el	/^(defun info-settings ()$/;"	f
+anything-c-source-delayed-occur	ioccur.el	/^(defvar anything-c-source-delayed-occur$/;"	f
+anything-delayed-occur-candidates	ioccur.el	/^(defun anything-delayed-occur-candidates ()$/;"	f
+ioccur	ioccur.el	/^(defun ioccur ()$/;"	f
+isearch-face-settings	isearch-face-settings.el	/^(defun isearch-face-settings ()$/;"	f
+isearch-settings	isearch-settings.el	/^(defun isearch-settings ()$/;"	f
+kde-emacs-settings	kde-emacs-settings.el	/^(defun kde-emacs-settings ()$/;"	f
+linkd-settings	linkd-settings.el	/^(defun linkd-settings ()$/;"	f
+linum+	linum+.el	/^(defgroup linum+ nil$/;"	f
+linum+-dynamic-format	linum+.el	/^(defcustom linum+-dynamic-format "%%%dd|"$/;"	f
+linum+-generate-linum-format	linum+.el	/^(defun linum+-generate-linum-format (format-type limit)$/;"	f
+linum+-smart-format	linum+.el	/^(defcustom linum+-smart-format "%%%dd|"$/;"	f
+linum-format	linum+.el	/^(defcustom linum-format 'smart$/;"	f
+linum-update-window	linum+.el	/^(defun linum-update-window (win)$/;"	f
+linum-face-settings	linum-face-settings.el	/^(defun linum-face-settings ()$/;"	f
+linum-settings	linum-settings.el	/^(defun linum-settings ()$/;"	f
+lisp-interaction-mode-settings	lisp-interaction-mode-settings.el	/^(defun lisp-interaction-mode-settings ()$/;"	f
+log-view-face-settings	log-view-face-settings.el	/^(defun log-view-face-settings ()$/;"	f
+man-face-settings	man-face-settings.el	/^(defun man-face-settings ()$/;"	f
+global-map	man-settings.el	/^(define-key global-map (kbd "C-x M") 'woman)$/;"	f
+man-current-word	man-settings.el	/^(defun man-current-word ()$/;"	f
+man-settings	man-settings.el	/^(defun man-settings ()$/;"	f
+def-mark-move-command	mark-settings.el	/^(defmacro def-mark-move-command (command)$/;"	f
+def-remember-command	mark-settings.el	/^(defmacro def-remember-command (command)$/;"	f
+global-map	mark-settings.el	/^(define-key global-map (kbd "M-C-l") 'wcy-mark-some-thing-at-point)$/;"	f
+mark-command	mark-settings.el	/^(defun mark-command (&optional no-record)$/;"	f
+wcy-mark-some-thing-at-point	mark-settings.el	/^(defun wcy-mark-some-thing-at-point()$/;"	f
+frame-state	maxframe-settings.el	/^(defvar frame-state nil "State of frame, t means maximized, and nil means not maximized.")$/;"	f
+m-spc-map	maxframe-settings.el	/^(define-prefix-command 'm-spc-map)$/;"	f
+maximize-frame	maxframe-settings.el	/^(defun maximize-frame ()$/;"	f
+minimize-frame	maxframe-settings.el	/^(defun minimize-frame ()$/;"	f
+restore-frame	maxframe-settings.el	/^(defun restore-frame ()$/;"	f
+toggle-fullscreen	maxframe-settings.el	/^(defun toggle-fullscreen (&optional f)$/;"	f
+toggle-maximize-frame	maxframe-settings.el	/^(defun toggle-maximize-frame ()$/;"	f
+w32-minimize-frame	maxframe-settings.el	/^(defun w32-minimize-frame ()$/;"	f
+mic-paren-face-settings	mic-paren-face-settings.el	/^(defun mic-paren-face-settings ()$/;"	f
+mic-paren-settings	mic-paren-settings.el	/^(defun mic-paren-settings ()$/;"	f
+minibuffer-face-settings	minibuffer-face-settings.el	/^(defun minibuffer-face-settings ()$/;"	f
+moccur-face-settings	moccur-face-settings.el	/^(defun moccur-face-settings ()$/;"	f
+moccur-settings	moccur-settings.el	/^(defun moccur-settings ()$/;"	f
+mode-line-face-settings	mode-line-face-settings.el	/^(defun mode-line-face-settings ()$/;"	f
+get-lines-4-mode-line	mode-line-settings.el	/^(defun get-lines-4-mode-line ()$/;"	f
+get-mode-line-region-face	mode-line-settings.el	/^(defun get-mode-line-region-face ()$/;"	f
+get-size-indication-format	mode-line-settings.el	/^(defun get-size-indication-format ()$/;"	f
+toggle-mode-line	mode-line-settings.el	/^(defun toggle-mode-line ()$/;"	f
+enter-term-mode	multi-term-settings.el	/^(defun enter-term-mode ()$/;"	f
+enter-text-mode	multi-term-settings.el	/^(defun enter-text-mode ()$/;"	f
+global-map	multi-term-settings.el	/^(define-key global-map (kbd "C-x e") 'multi-term)$/;"	f
+switch-term-and-text	multi-term-settings.el	/^(defun switch-term-and-text ()$/;"	f
+term-send-backward-kill-semi-word	multi-term-settings.el	/^(defun term-send-backward-kill-semi-word ()$/;"	f
+term-send-c-x	multi-term-settings.el	/^(defun term-send-c-x ()$/;"	f
+term-send-copy-line	multi-term-settings.el	/^(defun term-send-copy-line ()$/;"	f
+term-send-copy-line-left	multi-term-settings.el	/^(defun term-send-copy-line-left ()$/;"	f
+term-send-esc	multi-term-settings.el	/^(defun term-send-esc ()$/;"	f
+term-send-kill-line	multi-term-settings.el	/^(defun term-send-kill-line ()$/;"	f
+term-send-kill-whole-line	multi-term-settings.el	/^(defun term-send-kill-whole-line ()$/;"	f
+term-send-undo	multi-term-settings.el	/^(defun term-send-undo ()$/;"	f
+term-send-yank	multi-term-settings.el	/^(defun term-send-yank ()$/;"	f
+delete-other-windows	multi-term.el	/^(defadvice delete-other-windows (around multi-term-delete-other-window-advice activate)$/;"	f
+delete-window	multi-term.el	/^(defadvice delete-window (before multi-term-delete-window-advice activate)$/;"	f
+multi-term	multi-term.el	/^(defgroup multi-term nil$/;"	f
+multi-term	multi-term.el	/^(defun multi-term ()$/;"	f
+multi-term-buffer-exist-p	multi-term.el	/^(defun multi-term-buffer-exist-p (buffer)$/;"	f
+multi-term-buffer-name	multi-term.el	/^(defcustom multi-term-buffer-name "terminal"$/;"	f
+multi-term-current-window-take-height	multi-term.el	/^(defun multi-term-current-window-take-height (&optional window)$/;"	f
+multi-term-dedicated-buffer	multi-term.el	/^(defvar multi-term-dedicated-buffer nil$/;"	f
+multi-term-dedicated-buffer-name	multi-term.el	/^(defconst multi-term-dedicated-buffer-name "MULTI-TERM-DEDICATED"$/;"	f
+multi-term-dedicated-close	multi-term.el	/^(defun multi-term-dedicated-close ()$/;"	f
+multi-term-dedicated-exist-p	multi-term.el	/^(defun multi-term-dedicated-exist-p ()$/;"	f
+multi-term-dedicated-get-buffer-name	multi-term.el	/^(defun multi-term-dedicated-get-buffer-name ()$/;"	f
+multi-term-dedicated-get-window	multi-term.el	/^(defun multi-term-dedicated-get-window ()$/;"	f
+multi-term-dedicated-handle-other-window-advice	multi-term.el	/^(defun multi-term-dedicated-handle-other-window-advice (activate)$/;"	f
+multi-term-dedicated-max-window-height	multi-term.el	/^(defcustom multi-term-dedicated-max-window-height 30$/;"	f
+multi-term-dedicated-open	multi-term.el	/^(defun multi-term-dedicated-open ()$/;"	f
+multi-term-dedicated-remember-window-height	multi-term.el	/^(defun multi-term-dedicated-remember-window-height ()$/;"	f
+multi-term-dedicated-select	multi-term.el	/^(defun multi-term-dedicated-select ()$/;"	f
+multi-term-dedicated-select-after-open-p	multi-term.el	/^(defcustom multi-term-dedicated-select-after-open-p nil$/;"	f
+multi-term-dedicated-skip-other-window-p	multi-term.el	/^(defcustom multi-term-dedicated-skip-other-window-p nil$/;"	f
+multi-term-dedicated-toggle	multi-term.el	/^(defun multi-term-dedicated-toggle ()$/;"	f
+multi-term-dedicated-window	multi-term.el	/^(defvar multi-term-dedicated-window nil$/;"	f
+multi-term-dedicated-window-height	multi-term.el	/^(defcustom multi-term-dedicated-window-height 14$/;"	f
+multi-term-dedicated-window-p	multi-term.el	/^(defun multi-term-dedicated-window-p ()$/;"	f
+multi-term-default-dir	multi-term.el	/^(defcustom multi-term-default-dir "~\/"$/;"	f
+multi-term-get-buffer	multi-term.el	/^(defun multi-term-get-buffer (&optional special-shell dedicated-window)$/;"	f
+multi-term-handle-close	multi-term.el	/^(defun multi-term-handle-close ()$/;"	f
+multi-term-internal	multi-term.el	/^(defun multi-term-internal ()$/;"	f
+multi-term-keystroke-setup	multi-term.el	/^(defun multi-term-keystroke-setup ()$/;"	f
+multi-term-kill-buffer-hook	multi-term.el	/^(defun multi-term-kill-buffer-hook ()$/;"	f
+multi-term-list	multi-term.el	/^(defun multi-term-list ()$/;"	f
+multi-term-next	multi-term.el	/^(defun multi-term-next (&optional offset)$/;"	f
+multi-term-prev	multi-term.el	/^(defun multi-term-prev (&optional offset)$/;"	f
+multi-term-program	multi-term.el	/^(defcustom multi-term-program nil$/;"	f
+multi-term-scroll-show-maximum-output	multi-term.el	/^(defcustom multi-term-scroll-show-maximum-output nil$/;"	f
+multi-term-scroll-to-bottom-on-output	multi-term.el	/^(defcustom multi-term-scroll-to-bottom-on-output nil$/;"	f
+multi-term-switch	multi-term.el	/^(defun multi-term-switch (direction offset)$/;"	f
+multi-term-switch-after-close	multi-term.el	/^(defcustom multi-term-switch-after-close 'NEXT$/;"	f
+multi-term-switch-internal	multi-term.el	/^(defun multi-term-switch-internal (direction offset)$/;"	f
+multi-term-try-create	multi-term.el	/^(defcustom multi-term-try-create t$/;"	f
+multi-term-window-dedicated-only-one-p	multi-term.el	/^(defun multi-term-window-dedicated-only-one-p ()$/;"	f
+multi-term-window-exist-p	multi-term.el	/^(defun multi-term-window-exist-p (window)$/;"	f
+other-window	multi-term.el	/^(defadvice other-window (after multi-term-dedicated-other-window-advice)$/;"	f
+pop-to-buffer	multi-term.el	/^(defadvice pop-to-buffer (before multi-term-pop-to-buffer-advice activate)$/;"	f
+term-bind-key-alist	multi-term.el	/^(defcustom term-bind-key-alist$/;"	f
+term-send-backward-kill-word	multi-term.el	/^(defun term-send-backward-kill-word ()$/;"	f
+term-send-backward-word	multi-term.el	/^(defun term-send-backward-word ()$/;"	f
+term-send-forward-kill-word	multi-term.el	/^(defun term-send-forward-kill-word ()$/;"	f
+term-send-forward-word	multi-term.el	/^(defun term-send-forward-word ()$/;"	f
+term-send-reverse-search-history	multi-term.el	/^(defun term-send-reverse-search-history ()$/;"	f
+term-unbind-key-list	multi-term.el	/^(defcustom term-unbind-key-list$/;"	f
+muse-settings	muse-settings.el	/^(defun muse-settings ()$/;"	f
+huangq-fontset-consolas	my-fontset-win.el	/^(defun huangq-fontset-consolas (&optional size)$/;"	f
+huangq-fontset-consolas0	my-fontset-win.el	/^(defun huangq-fontset-consolas0 (&optional size)$/;"	f
+huangq-fontset-courier	my-fontset-win.el	/^(defun huangq-fontset-courier (&optional size)$/;"	f
+huangq-fontset-dejavu	my-fontset-win.el	/^(defun huangq-fontset-dejavu (&optional size)$/;"	f
+huangq-fontset-fixedsys	my-fontset-win.el	/^(defun huangq-fontset-fixedsys (&optional size)$/;"	f
+huangq-fontset-lucida	my-fontset-win.el	/^(defun huangq-fontset-lucida (&optional size)$/;"	f
+huangq-fontset-monaco	my-fontset-win.el	/^(defun huangq-fontset-monaco (&optional size)$/;"	f
+huangq-set-font	my-fontset-win.el	/^(defun huangq-set-font (latin-size &optional chinese-size)$/;"	f
+my-chinese-font	my-fontset-win.el	/^(defvar my-chinese-font "新宋体")$/;"	f
+my-chinese-size	my-fontset-win.el	/^(defvar my-chinese-size 20)$/;"	f
+my-fontset	my-fontset-win.el	/^(defvar my-fontset "fontset-courier")$/;"	f
+my-latin-font	my-fontset-win.el	/^(defvar my-latin-font "Courier New")$/;"	f
+my-latin-size	my-fontset-win.el	/^(defvar my-latin-size 17)$/;"	f
+my-add-subdirs-to-load-path	my-subdirs.el	/^(defun my-add-subdirs-to-load-path (dir)$/;"	f
+normal-top-level-add-subdirs-to-load-path	my-subdirs.el	/^(defun normal-top-level-add-subdirs-to-load-path ()$/;"	f
+org-colview-settings	org-settings.el	/^(defun org-colview-settings ()$/;"	f
+org-settings	org-settings.el	/^(defun org-settings ()$/;"	f
+outline-settings	outline-settings.el	/^(defun outline-settings ()$/;"	f
+facemenup-palette-face	palette-misc.el	/^(defun facemenup-palette-face (face &optional is-bg)$/;"	f
+facemenup-palette-face-at-point	palette-misc.el	/^(defun facemenup-palette-face-at-point (&optional is-bg)$/;"	f
+palette-settings	palette-settings.el	/^(defun palette-settings ()$/;"	f
+paren-face-settings	paren-face-settings.el	/^(defun paren-face-settings ()$/;"	f
+paren-position	paren-position.el	/^(defgroup paren-position nil$/;"	f
+paren-position-cpp-else	paren-position.el	/^(defcustom paren-position-cpp-else (concat paren-position-cpp-prefix "\\\\(else\\\\)\\\\b")$/;"	f
+paren-position-cpp-endif	paren-position.el	/^(defcustom paren-position-cpp-endif (concat paren-position-cpp-prefix "\\\\(endif\\\\)\\\\b")$/;"	f
+paren-position-cpp-ifx	paren-position.el	/^(defcustom paren-position-cpp-ifx (concat paren-position-cpp-prefix "\\\\(ifn?def\\\\)\\\\s-+")$/;"	f
+paren-position-cpp-prefix	paren-position.el	/^(defcustom paren-position-cpp-prefix "^\\\\s-*#\\\\s-*"$/;"	f
+paren-position-goto	paren-position.el	/^(defun paren-position-goto ()$/;"	f
+paren-position-goto-behavior	paren-position.el	/^(defcustom paren-position-goto-behavior 'smart$/;"	f
+paren-position-goto-else	paren-position.el	/^(defun paren-position-goto-else ()$/;"	f
+paren-position-goto-endif	paren-position.el	/^(defun paren-position-goto-endif ()$/;"	f
+paren-position-goto-ifx	paren-position.el	/^(defun paren-position-goto-ifx ()$/;"	f
+paren-position-goto-next-cpp	paren-position.el	/^(defun paren-position-goto-next-cpp ()$/;"	f
+paren-settings	paren-settings.el	/^(defun paren-settings ()$/;"	f
+perl-face-settings	perl-face-settings.el	/^(defun perl-face-settings ()$/;"	f
+perl-mode	perl-settings.el	/^(defalias 'perl-mode 'cperl-mode)$/;"	f
+perl-settings	perl-settings.el	/^(defun perl-settings ()$/;"	f
+commands-with-displn	post-command-hook.el	/^(defvar commands-with-displn$/;"	f
+commands-with-recenter	post-command-hook.el	/^(defvar commands-with-recenter$/;"	f
+displn-post-command	post-command-hook.el	/^(defun displn-post-command ()$/;"	f
+recenter-post-command	post-command-hook.el	/^(defun recenter-post-command ()$/;"	f
+pulse-face-settings	pulse-face-settings.el	/^(defun pulse-face-settings ()$/;"	f
+pulse-settings	pulse-settings.el	/^(defun pulse-settings ()$/;"	f
+rhtml-modes	rails-settings.el	/^(defun rhtml-modes ()$/;"	f
+recent-jump-small-backward	recent-jump-small.el	/^(defun recent-jump-small-backward (arg)$/;"	f
+recent-jump-small-forward	recent-jump-small.el	/^(defun recent-jump-small-forward (arg)$/;"	f
+recent-jump-small-mode	recent-jump-small.el	/^(define-minor-mode recent-jump-small-mode$/;"	f
+rjs-clean	recent-jump-small.el	/^(defun rjs-clean ()$/;"	f
+rjs-column-threshold	recent-jump-small.el	/^(defvar rjs-column-threshold 1 "*The column threshold of a big-jump")$/;"	f
+rjs-command-ignore	recent-jump-small.el	/^(defvar rjs-command-ignore$/;"	f
+rjs-index	recent-jump-small.el	/^(defvar rjs-index 0 "`recent-jump-small-backward'的时候当前位置在`rjs-ring'中的序号")$/;"	f
+rjs-line-threshold	recent-jump-small.el	/^(defvar rjs-line-threshold 1 "*The line threshold of a big-jump")$/;"	f
+rjs-mode-line-format	recent-jump-small.el	/^(defvar rjs-mode-line-format " RJS" "*Mode line format of `recent-jump-small-mode'.")$/;"	f
+rjs-position-before	recent-jump-small.el	/^(defvar rjs-position-before nil "以前光标所在的位置")$/;"	f
+rjs-position-pre-command	recent-jump-small.el	/^(defvar rjs-position-pre-command nil "命令执行前光标所在的位置")$/;"	f
+rjs-post-command	recent-jump-small.el	/^(defun rjs-post-command ()$/;"	f
+rjs-pre-command	recent-jump-small.el	/^(defun rjs-pre-command ()$/;"	f
+rjs-ring	recent-jump-small.el	/^(defvar rjs-ring (make-ring rjs-ring-length) "存放光标所经过的位置的环")$/;"	f
+rjs-ring-length	recent-jump-small.el	/^(defvar rjs-ring-length 10000 "*The length of `rjs-ring'")$/;"	f
+column-number-at-pos	recent-jump.el	/^(defun column-number-at-pos (&optional pos)$/;"	f
+recent-jump-backward	recent-jump.el	/^(defun recent-jump-backward (arg)$/;"	f
+recent-jump-forward	recent-jump.el	/^(defun recent-jump-forward (arg)$/;"	f
+recent-jump-mode	recent-jump.el	/^(define-minor-mode recent-jump-mode$/;"	f
+rj-clean	recent-jump.el	/^(defun rj-clean ()$/;"	f
+rj-column-threshold	recent-jump.el	/^(defvar rj-column-threshold 20 "*The column threshold of a big-jump")$/;"	f
+rj-command-ignore	recent-jump.el	/^(defvar rj-command-ignore$/;"	f
+rj-index	recent-jump.el	/^(defvar rj-index 0 "`recent-jump-backward'的时候当前位置在`rj-ring'中的序号")$/;"	f
+rj-insert-big-jump-point	recent-jump.el	/^(defun rj-insert-big-jump-point (ring line column position-before position-after &optional position)$/;"	f
+rj-insert-point	recent-jump.el	/^(defun rj-insert-point (ring position)$/;"	f
+rj-line-threshold	recent-jump.el	/^(defvar rj-line-threshold 5 "*The line threshold of a big-jump")$/;"	f
+rj-mode-line-format	recent-jump.el	/^(defvar rj-mode-line-format " RJ" "*Mode line format of `recent-jump-mode'.")$/;"	f
+rj-position-before	recent-jump.el	/^(defvar rj-position-before nil "以前光标所在的位置")$/;"	f
+rj-position-pre-command	recent-jump.el	/^(defvar rj-position-pre-command nil "命令执行前光标所在的位置")$/;"	f
+rj-post-command	recent-jump.el	/^(defun rj-post-command ()$/;"	f
+rj-pre-command	recent-jump.el	/^(defun rj-pre-command ()$/;"	f
+rj-ring	recent-jump.el	/^(defvar rj-ring (make-ring rj-ring-length) "存放光标所经过的位置的环")$/;"	f
+rj-ring-length	recent-jump.el	/^(defvar rj-ring-length 10000 "*The length of `rj-ring'")$/;"	f
+recentf-add-dir	recentf-settings.el	/^(defun recentf-add-dir ()$/;"	f
+recentf-open-files-complete	recentf-settings.el	/^(defun recentf-open-files-complete ()$/;"	f
+recentf-settings	recentf-settings.el	/^(defun recentf-settings ()$/;"	f
+copy-region	rect-mark-settings.el	/^(defun copy-region (beg end)$/;"	f
+rect-mark-settings	rect-mark-settings.el	/^(defun rect-mark-settings ()$/;"	f
+rm-mark-command	rect-mark-settings.el	/^(defun rm-mark-command ()$/;"	f
+replace-face-settings	replace-face-settings.el	/^(defun replace-face-settings ()$/;"	f
+irb	ruby-settings.el	/^(defalias 'irb 'run-ruby)$/;"	f
+ruby-settings	ruby-settings.el	/^(defun ruby-settings ()$/;"	f
+command-with-sb	select-buffer.el	/^(defvar command-with-sb$/;"	f
+command-with-sb-kill	select-buffer.el	/^(defvar command-with-sb-kill$/;"	f
+def-command-sb	select-buffer.el	/^(defmacro def-command-sb (command)$/;"	f
+one-window-p	select-buffer.el	/^(defadvice one-window-p (after sb-one-window-p)$/;"	f
+other-window	select-buffer.el	/^(defadvice other-window (after sb-other-window)$/;"	f
+sb-active-buffer-face	select-buffer.el	/^(defvar sb-active-buffer-face   'red-face   "default face for active buffer")$/;"	f
+sb-auto-adjust-buffer	select-buffer.el	/^(defvar sb-auto-adjust-buffer nil "*Non-nil means automatically adjust the height of `sb-buffer-name'window")$/;"	f
+sb-buffer-backword	select-buffer.el	/^(defun sb-buffer-backword(buffer-list)$/;"	f
+sb-buffer-exclude-regexps	select-buffer.el	/^(defvar sb-buffer-exclude-regexps$/;"	f
+sb-buffer-forward	select-buffer.el	/^(defun sb-buffer-forward(buffer-list)$/;"	f
+sb-buffer-list	select-buffer.el	/^(defun sb-buffer-list ()$/;"	f
+sb-buffer-min-height	select-buffer.el	/^(defvar sb-buffer-min-height 2 "`sb-buffer-name'buffer最小的高度")$/;"	f
+sb-buffer-name	select-buffer.el	/^(defun sb-buffer-name (buffer)$/;"	f
+sb-buffer-name	select-buffer.el	/^(defvar sb-buffer-name "*select buffer*" "select buffer的名字")$/;"	f
+sb-buffer-visible-p	select-buffer.el	/^(defun sb-buffer-visible-p ()$/;"	f
+sb-create-buffer	select-buffer.el	/^(defun sb-create-buffer ()$/;"	f
+sb-cur-buffer-index	select-buffer.el	/^(defvar sb-cur-buffer-index 0 "当前选择的buffer的索引")$/;"	f
+sb-disp-buf-list	select-buffer.el	/^(defun sb-disp-buf-list (buffer-list)$/;"	f
+sb-disp-buf-list-timer	select-buffer.el	/^(defvar sb-disp-buf-list-timer nil "显示`sb-buffer-name'buffer的timer")$/;"	f
+sb-disp-buf-list-with-switch	select-buffer.el	/^(defun sb-disp-buf-list-with-switch (buffer-list)$/;"	f
+sb-inactive-buffer-face	select-buffer.el	/^(defvar sb-inactive-buffer-face 'white-face "default face for inactive buffer")$/;"	f
+sb-indicator	select-buffer.el	/^(defvar sb-indicator " | " "*indicator of select buffer")$/;"	f
+sb-indicator-face	select-buffer.el	/^(defvar sb-indicator-face       'green-face "the face of select buffer indicator")$/;"	f
+sb-keep-buffer	select-buffer.el	/^(defun sb-keep-buffer (keep)$/;"	f
+sb-keep-buffer	select-buffer.el	/^(defvar sb-keep-buffer t "是否始终显示`sb-buffer-name'window")$/;"	f
+sb-kill-pre-command	select-buffer.el	/^(defun sb-kill-pre-command ()$/;"	f
+sb-post-command	select-buffer.el	/^(defun sb-post-command ()$/;"	f
+sb-state-ediff	select-buffer.el	/^(defvar sb-state-ediff nil "select-buffer的状态")$/;"	f
+sb-toggle-auto-just-buffer	select-buffer.el	/^(defun sb-toggle-auto-just-buffer ()$/;"	f
+sb-toggle-keep-buffer	select-buffer.el	/^(defun sb-toggle-keep-buffer ()$/;"	f
+sb-toggle-timer	select-buffer.el	/^(defun sb-toggle-timer (enable)$/;"	f
+sb-update	select-buffer.el	/^(defun sb-update ()$/;"	f
+sb-update-buffer	select-buffer.el	/^(defun sb-update-buffer ()$/;"	f
+sb-window-p	select-buffer.el	/^(defun sb-window-p (window)$/;"	f
+select-buffer	select-buffer.el	/^(defun select-buffer (&optional arg)$/;"	f
+select-buffer-backward	select-buffer.el	/^(defun select-buffer-backward ()$/;"	f
+select-buffer-forward	select-buffer.el	/^(defun select-buffer-forward ()$/;"	f
+switch-to-other-buffer	select-buffer.el	/^(defun switch-to-other-buffer ()$/;"	f
+session-settings	session-settings.el	/^(defun session-settings ()$/;"	f
+sh-mode-face-settings	sh-mode-face-settings.el	/^(defun sh-mode-face-settings ()$/;"	f
+sh-mode-settings	sh-mode-settings.el	/^(defun sh-mode-settings ()$/;"	f
+sourcepair-settings	sourcepair-settings.el	/^(defun sourcepair-settings ()$/;"	f
+sql-settings	sql-settings.el	/^(defun sql-settings ()$/;"	f
+sr-speedbar-settings	sr-speedbar-settings.el	/^(defun sr-speedbar-settings ()$/;"	f
+svn-face-settings	svn-face-settings.el	/^(defun svn-face-settings ()$/;"	f
+svn	svn-misc.el	/^(defalias 'svn 'svn-status)$/;"	f
+svn-resolve-conflicts-current-file	svn-misc.el	/^(defun svn-resolve-conflicts-current-file ()$/;"	f
+svn-resolved-current-file	svn-misc.el	/^(defun svn-resolved-current-file ()$/;"	f
+svn-status-goto-first-line	svn-misc.el	/^(defun svn-status-goto-first-line ()$/;"	f
+svn-status-goto-root	svn-misc.el	/^(defun svn-status-goto-root ()$/;"	f
+svn-status-my-emacs-dir	svn-misc.el	/^(defun svn-status-my-emacs-dir ()$/;"	f
+svn-status-this-dir-hide	svn-misc.el	/^(defun svn-status-this-dir-hide (&optional arg)$/;"	f
+visit-svn-status	svn-misc.el	/^(defun visit-svn-status ()$/;"	f
+svn-settings	svn-settings.el	/^(defun svn-settings ()$/;"	f
+svn-cleanup	svn.el	/^(defun svn-cleanup (files)$/;"	f
+svn-cleanup-current-dir	svn.el	/^(defun svn-cleanup-current-dir ()$/;"	f
+svn-create-arg-file	svn.el	/^(defun svn-create-arg-file (file-name prefix files postfix)$/;"	f
+svn-delete-files	svn.el	/^(defun svn-delete-files ()$/;"	f
+svn-dired-jump	svn.el	/^(defun svn-dired-jump ()$/;"	f
+svn-scroll-down	svn.el	/^(defun svn-scroll-down ()$/;"	f
+svn-scroll-half-page-backward	svn.el	/^(defun svn-scroll-half-page-backward ()$/;"	f
+svn-scroll-half-page-forward	svn.el	/^(defun svn-scroll-half-page-forward ()$/;"	f
+svn-scroll-up	svn.el	/^(defun svn-scroll-up ()$/;"	f
+template-settings	template-settings.el	/^(defun template-settings ()$/;"	f
+term-settings	term-settings.el	/^(defun term-settings ()$/;"	f
+todochiku-get-arguments	todochiku-settings.el	/^(defun todochiku-get-arguments (title message icon)$/;"	f
+tramp-settings	tramp-settings.el	/^(defun tramp-settings ()$/;"	f
+twit-face-settings	twit-face-settings.el	/^(defun twit-face-settings ()$/;"	f
+twitter4e	twitter4e.el	/^(defgroup twitter4e nil$/;"	f
+twitter4e-alert-default-title	twitter4e.el	/^(defcustom twitter4e-alert-default-title "twitter4e"$/;"	f
+twitter4e-analyse-graph-user-url	twitter4e.el	/^(defcustom twitter4e-analyse-graph-user-url "http:\/\/twanalyst.com\/%s\/track"$/;"	f
+twitter4e-analyse-suggest-user-url	twitter4e.el	/^(defcustom twitter4e-analyse-suggest-user-url "http:\/\/twanalyst.com\/%s\/suggest"$/;"	f
+twitter4e-analyse-user-url	twitter4e.el	/^(defcustom twitter4e-analyse-user-url "http:\/\/twanalyst.com\/%s"$/;"	f
+twitter4e-api-domain	twitter4e.el	/^(defcustom twitter4e-api-domain "twip.fishnote.net"$/;"	f
+twitter4e-debug	twitter4e.el	/^(defcustom twitter4e-debug nil$/;"	f
+twitter4e-get-attrib-value	twitter4e.el	/^(defun twitter4e-get-attrib-value (node attrib)$/;"	f
+twitter4e-get-home-timeline	twitter4e.el	/^(defun twitter4e-get-home-timeline (&optional page callback cbargs)$/;"	f
+twitter4e-get-home-timeline-since	twitter4e.el	/^(defun twitter4e-get-home-timeline-since (&optional id callback cbargs)$/;"	f
+twitter4e-get-mentions	twitter4e.el	/^(defun twitter4e-get-mentions (&optional page callback cbargs)$/;"	f
+twitter4e-get-node-text	twitter4e.el	/^(defun twitter4e-get-node-text (node)$/;"	f
+twitter4e-get-rate-limit	twitter4e.el	/^(defun twitter4e-get-rate-limit ()$/;"	f
+twitter4e-get-rate-limit-xml	twitter4e.el	/^(defun twitter4e-get-rate-limit-xml (&optional callback cbargs)$/;"	f
+twitter4e-get-status-nodes	twitter4e.el	/^(defun twitter4e-get-status-nodes (xml)$/;"	f
+twitter4e-get-tweet-created-at	twitter4e.el	/^(defun twitter4e-get-tweet-created-at (tweet)$/;"	f
+twitter4e-get-tweet-id	twitter4e.el	/^(defun twitter4e-get-tweet-id (tweet)$/;"	f
+twitter4e-get-tweet-source	twitter4e.el	/^(defun twitter4e-get-tweet-source (tweet)$/;"	f
+twitter4e-get-tweet-text	twitter4e.el	/^(defun twitter4e-get-tweet-text (tweet)$/;"	f
+twitter4e-get-user-id	twitter4e.el	/^(defun twitter4e-get-user-id (tweet)$/;"	f
+twitter4e-get-user-image-url	twitter4e.el	/^(defun twitter4e-get-user-image-url (tweet)$/;"	f
+twitter4e-get-user-name	twitter4e.el	/^(defun twitter4e-get-user-name (tweet)$/;"	f
+twitter4e-get-user-node	twitter4e.el	/^(defun twitter4e-get-user-node (status-node)$/;"	f
+twitter4e-get-user-screenname	twitter4e.el	/^(defun twitter4e-get-user-screenname (tweet)$/;"	f
+twitter4e-header-error-p	twitter4e.el	/^(defun twitter4e-header-error-p (header)$/;"	f
+twitter4e-http-port	twitter4e.el	/^(defcustom twitter4e-http-port 80$/;"	f
+twitter4e-http-respone-header-return-code	twitter4e.el	/^(defun twitter4e-http-respone-header-return-code (header)$/;"	f
+twitter4e-https-port	twitter4e.el	/^(defcustom twitter4e-https-port 443$/;"	f
+twitter4e-method-get	twitter4e.el	/^(defconst twitter4e-method-get  "GET"  "Get method.")$/;"	f
+twitter4e-method-post	twitter4e.el	/^(defconst twitter4e-method-post "POST" "Post method.")$/;"	f
+twitter4e-parse-header	twitter4e.el	/^(defun twitter4e-parse-header (header-frag)$/;"	f
+twitter4e-parse-rate-limit	twitter4e.el	/^(defun twitter4e-parse-rate-limit (xml)$/;"	f
+twitter4e-parse-xml	twitter4e.el	/^(defun twitter4e-parse-xml (url &optional method callback cbargs)$/;"	f
+twitter4e-parse-xml-header	twitter4e.el	/^(defun twitter4e-parse-xml-header (xml-data)$/;"	f
+twitter4e-parse-xml-internal	twitter4e.el	/^(defun twitter4e-parse-xml-internal ()$/;"	f
+twitter4e-parse-xml-url-retrieve-callback	twitter4e.el	/^(defun twitter4e-parse-xml-url-retrieve-callback (status url callback &optional cbargs)$/;"	f
+twitter4e-protocol	twitter4e.el	/^(defcustom twitter4e-protocol "http"$/;"	f
+twitter4e-request-headers	twitter4e.el	/^(defconst twitter4e-request-headers$/;"	f
+twitter4e-set-api-domain	twitter4e.el	/^(defun twitter4e-set-api-domain (domain)$/;"	f
+twitter4e-set-api-protocol	twitter4e.el	/^(defun twitter4e-set-api-protocol (protocol)$/;"	f
+twitter4e-set-auth	twitter4e.el	/^(defun twitter4e-set-auth (user pass)$/;"	f
+twitter4e-twitter-source	twitter4e.el	/^(defcustom twitter4e-twitter-source$/;"	f
+twitter4e-update-status	twitter4e.el	/^(defun twitter4e-update-status (status &optional reply-id callback cbargs source)$/;"	f
+twitter4e-update-status-url-retrieve-callback	twitter4e.el	/^(defun twitter4e-update-status-url-retrieve-callback (status url callback &optional cbargs)$/;"	f
+twitter4e-url-retrieve-callback	twitter4e.el	/^(defun twitter4e-url-retrieve-callback (status url result-parse-fun callback &optional cbargs)$/;"	f
+twitter4e-version-number	twitter4e.el	/^(defvar twitter4e-version-number "1.0" "Version number of twitter4e.")$/;"	f
+twitter4e-xml-first-child	twitter4e.el	/^(defun twitter4e-xml-first-child (node attr)$/;"	f
+twitter4e-xml-first-childs-value	twitter4e.el	/^(defun twitter4e-xml-first-childs-value (node addr)$/;"	f
+twitter4e-xml-header-error-p	twitter4e.el	/^(defun twitter4e-xml-header-error-p (xml)$/;"	f
+apply-args-list-to-fun	util.el	/^(defun apply-args-list-to-fun (fun-list args-list)$/;"	f
+apply-args-to-fun	util.el	/^(defun apply-args-to-fun (fun args)$/;"	f
+apply-define-key	util.el	/^(defalias 'apply-define-key 'eal-define-keys-commonly)$/;"	f
+c-modes	util.el	/^(defvar c-modes '(c-mode c++-mode awk-mode java-mode) "*C modes.")$/;"	f
+cygwin	util.el	/^(defvar cygwin (equal system-type 'cygwin) "Non-nil means cygwin system.")$/;"	f
+def-command-max-window	util.el	/^(defmacro def-command-max-window (command)$/;"	f
+def-execute-command-on-current-dir-command	util.el	/^(defmacro def-execute-command-on-current-dir-command (command)$/;"	f
+def-execute-command-on-current-file-command	util.el	/^(defmacro def-execute-command-on-current-file-command (command)$/;"	f
+def-execute-command-on-file-command	util.el	/^(defmacro def-execute-command-on-file-command (command)$/;"	f
+def-turn-on	util.el	/^(defmacro def-turn-on (command &optional is-on)$/;"	f
+define-kbd	util.el	/^(defmacro define-kbd     (keymap key def) `(define-key ,keymap (kbd ,key) ,def))$/;"	f
+define-key-list	util.el	/^(defalias 'define-key-list 'eal-define-keys-commonly)$/;"	f
+delete-current-window	util.el	/^(defun delete-current-window (&optional frame)$/;"	f
+dev-modes	util.el	/^(defvar dev-modes (append c-modes '(python-mode perl-mode makefile-gmake-mode)) "*Modes for develop.")$/;"	f
+execute-command-on-current-dir	util.el	/^(defun execute-command-on-current-dir (command)$/;"	f
+execute-command-on-current-file	util.el	/^(defun execute-command-on-current-file (command)$/;"	f
+execute-command-on-file	util.el	/^(defun execute-command-on-file (file command)$/;"	f
+global-set-kbd	util.el	/^(defmacro global-set-kbd (key command)    `(global-set-key (kbd ,key) ,command))$/;"	f
+html-color	util.el	/^(defun html-color (string)$/;"	f
+is-after-emacs-23	util.el	/^(defconst is-after-emacs-23  (<= 23 emacs-major-version) "是否是emacs 23或以后的版本")$/;"	f
+is-before-emacs-21	util.el	/^(defconst is-before-emacs-21 (>= 21 emacs-major-version) "是否是emacs 21或以前的版本")$/;"	f
+kill-buffer-when-shell-command-exit	util.el	/^(defun kill-buffer-when-shell-command-exit ()$/;"	f
+last-region-beg	util.el	/^(defvar last-region-beg     nil "Beginning of last region.")$/;"	f
+last-region-end	util.el	/^(defvar last-region-end     nil "End of last region.")$/;"	f
+last-region-is-rect	util.el	/^(defvar last-region-is-rect nil "Last region is rectangle or not.")$/;"	f
+last-region-use-cua	util.el	/^(defvar last-region-use-cua nil "Last region use CUA mode or not.")$/;"	f
+list-colors-display-htm	util.el	/^(defun list-colors-display-htm (&optional list)$/;"	f
+local-set-kbd	util.el	/^(defmacro local-set-kbd  (key command)    `(local-set-key (kbd ,key) ,command))$/;"	f
+mswin	util.el	/^(defvar mswin  (equal window-system 'w32)  "Non-nil means windows system.")$/;"	f
+system-head-file-dir	util.el	/^(defconst system-head-file-dir (list "\/usr\/include" "\/usr\/local\/include" "\/usr\/include\/sys") "系统头文件目录")$/;"	f
+unset-key	util.el	/^(defun unset-key (keymap key)$/;"	f
+use-cua	util.el	/^(defvar use-cua nil "Use CUA mode or not.")$/;"	f
+user-head-file-dir	util.el	/^(defconst user-head-file-dir   (list "." "..\/hdr" "..\/include") "用户头文件目录")$/;"	f
+vc-checkout-working-revision	vc+.el	/^(defun vc-checkout-working-revision ()$/;"	f
+vc-delete	vc+.el	/^(defun vc-delete ()$/;"	f
+vc-ediff	vc+.el	/^(defun vc-ediff (rev1 rev2)$/;"	f
+vc-ediff-buffers-to-kill	vc+.el	/^(defvar vc-ediff-buffers-to-kill nil "Buffers to kill when run `ediff' in vc.")$/;"	f
+vc-ediff-old-buffer	vc+.el	/^(defvar vc-ediff-old-buffer nil "Old buffer when run `ediff' in vc.")$/;"	f
+vc-ediff-restore-window	vc+.el	/^(defun vc-ediff-restore-window ()$/;"	f
+vc-ediff-restore-window	vc+.el	/^(defvar vc-ediff-restore-window t "*After `ediff' in vc, restore window or not.")$/;"	f
+vc-ediff-startup-hook	vc+.el	/^(defun vc-ediff-startup-hook ()$/;"	f
+vc-ediff-with-prev-rev	vc+.el	/^(defun vc-ediff-with-prev-rev ()$/;"	f
+vc-rename	vc+.el	/^(defun vc-rename ()$/;"	f
+vc-rename-current-file	vc+.el	/^(defun vc-rename-current-file (new)$/;"	f
+vc-rename-disp-current-file	vc+.el	/^(defvar vc-rename-disp-current-file nil "Display current file name when vc rename file.")$/;"	f
+vc-revert-update-modeline	vc+.el	/^(defun vc-revert-update-modeline ()$/;"	f
+vc-update-and-revert-buffer	vc+.el	/^(defun vc-update-and-revert-buffer ()$/;"	f
+vc-version-ediff	vc+.el	/^(defun vc-version-ediff (file rev1 rev2)$/;"	f
+vc-settings	vc-settings.el	/^(defun vc-settings ()$/;"	f
+view-mode-settings	view-mode-settings.el	/^(defun view-mode-settings ()$/;"	f
+w3m-face-settings	w3m-face-settings.el	/^(defun w3m-face-settings ()$/;"	f
+w3m-lnis	w3m-lnis.el	/^(defgroup w3m-lnis nil$/;"	f
+w3m-lnis-isearch-forward	w3m-lnis.el	/^(defun w3m-lnis-isearch-forward (&optional regexp-p no-recursive-edit)$/;"	f
+w3m-lnis-isearch-search-fun-function	w3m-lnis.el	/^(defun w3m-lnis-isearch-search-fun-function ()$/;"	f
+w3m-lnis-link-numbering	w3m-lnis.el	/^(defun w3m-lnis-link-numbering (&rest args)$/;"	f
+w3m-lnis-link-numbering-face	w3m-lnis.el	/^(defface w3m-lnis-link-numbering-face$/;"	f
+w3m-lnis-link-numbers	w3m-lnis.el	/^(defvar w3m-lnis-link-numbers nil "Link numbers list.")$/;"	f
+w3m-lnis-mode	w3m-lnis.el	/^(define-minor-mode w3m-lnis-mode$/;"	f
+w3m-lnis-mode-line-face	w3m-lnis.el	/^(defface w3m-lnis-mode-line-face$/;"	f
+w3m-lnis-mode-line-format	w3m-lnis.el	/^(defcustom w3m-lnis-mode-line-format (propertize "LNIS" 'face 'w3m-lnis-mode-line-face)$/;"	f
+w3m-lnis-search-forward	w3m-lnis.el	/^(defun w3m-lnis-search-forward (string &optional bound noerror count)$/;"	f
+w3m-browse-current-buffer	w3m-settings.el	/^(defun w3m-browse-current-buffer ()$/;"	f
+w3m-settings	w3m-settings.el	/^(defun w3m-settings ()$/;"	f
+weather	weather-settings.el	/^(defalias 'weather 'cn-weather-today)$/;"	f
+weather-tomorrow	weather-settings.el	/^(defalias 'weather-tomorrow 'cn-weather-forecast)$/;"	f
+weblogger-settings	weblogger-settings.el	/^(defun weblogger-settings ()$/;"	f
+which-func-face-settings	which-func-face-settings.el	/^(defun which-func-face-settings ()$/;"	f
+which-func-settings	which-func-settings.el	/^(defun which-func-settings ()$/;"	f
+woman-face-settings	woman-face-settings.el	/^(defun woman-face-settings ()$/;"	f
+woman-settings	woman-settings.el	/^(defun woman-settings ()$/;"	f
+xref-settings	xref-settings.el	/^(defun xref-settings ()$/;"	f
+yasnippet-settings	yasnippet-settings.el	/^(defun yasnippet-settings ()$/;"	f
+zjl-hl-face-settings	zjl-hl-face-settings.el	/^(defun zjl-hl-face-settings ()$/;"	f
+zjl-hl-settings	zjl-hl-settings.el	/^(defun zjl-hl-settings ()$/;"	f
