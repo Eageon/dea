@@ -71,7 +71,7 @@
   :type 'float
   :group 'auto-complete)
 
-(defcustom ac-auto-show-menu 0.8
+(defcustom ac-auto-show-menu 1.6
   "Non-nil means completion menu will be automatically shown."
   :type '(choice (const :tag "Yes" t)
                  (const :tag "Never" nil)
@@ -206,7 +206,7 @@ and if there is no completions, an original command will be fallbacked."
                     (fboundp 'ac-set-trigger-key))
            (ac-set-trigger-key value))))
 
-(defcustom ac-auto-start 2
+(defcustom ac-auto-start 4
   "Non-nil means completion will be started automatically.
 Positive integer means if a length of a word you entered is larger than the value,
 completion will be started automatically.

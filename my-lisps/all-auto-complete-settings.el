@@ -32,6 +32,6 @@
 (require 'auto-insert-settings)
 
 ;; 超强的snippet
-(require 'yasnippet-settings)
+(require 'yasnippet-settings-0.8)
 
 (provide 'all-auto-complete-settings)
