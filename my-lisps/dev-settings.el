@@ -1,6 +1,6 @@
 ;; -*- Emacs-Lisp -*-
 
-;; Time-stamp: <2010-11-26 13:49:22 Friday by taoshanwen>
+;; Time-stamp: <2012-09-25 16:49:25 Tuesday by yj>
 
 ;; This  file is free  software; you  can redistribute  it and/or
 ;; modify it under the terms of the GNU General Public License as
@@ -122,6 +122,9 @@
 
 ;; 开发shell程序的mode配置
 (require 'sh-mode-settings)
+
+;; Go语言配置
+(require 'go-settings)
 
 ;; xml mode配置
 (require 'sgml-mode-settings)

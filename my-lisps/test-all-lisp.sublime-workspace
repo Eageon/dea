@@ -28,14 +28,6 @@
 	"buffers":
 	[
 		{
-			"file": "/home/yj/Web/Django-1.4.1/setup.py",
-			"settings":
-			{
-				"buffer_size": 4019,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "/home/yj/.emacs",
 			"settings":
 			{
@@ -44,26 +36,42 @@
 			}
 		},
 		{
-			"file": "/home/yj/Build/dea-1.4/lisps/yasnippet-0.8/yasnippet.el",
+			"file": "/media/F8FE85B4FE856C26/Users/yj/Desktop/~~~大白本/NO.2-NO.9--text/tn2-3.txt",
 			"settings":
 			{
-				"buffer_size": 186242,
+				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "yasnippet-settings-0.8.el",
+			"file": "/home/yj/go/test/dwarf/main.go",
 			"settings":
 			{
-				"buffer_size": 1123,
+				"buffer_size": 349,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "yasnippet-settings.el",
+			"file": "/home/yj/go/src/pkg/github.com/mattn/go-sqlite3/sqlite3.go",
 			"settings":
 			{
-				"buffer_size": 1077,
+				"buffer_size": 7517,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/yj/go/src/pkg/go/build/build.go",
+			"settings":
+			{
+				"buffer_size": 26723,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/yj/go/src/pkg/runtime/thread_linux.c",
+			"settings":
+			{
+				"buffer_size": 6777,
 				"line_ending": "Unix"
 			}
 		}
@@ -104,6 +112,42 @@
 	},
 	"file_history":
 	[
+		"/home/yj/go/src/cmd/gc/walk.c",
+		"/home/yj/go/src/cmd/8c/gc.h",
+		"/home/yj/go/src/cmd/8c/cgen.c",
+		"/home/yj/go/include/libc.h",
+		"/home/yj/go/src/cmd/gc/inl.c",
+		"/home/yj/go/src/cmd/gc/gen.c",
+		"/home/yj/go/src/cmd/gc/align.c",
+		"/home/yj/go/src/cmd/gc/dcl.c",
+		"/home/yj/go/src/cmd/gc/init.c",
+		"/home/yj/go/src/cmd/gc/sinit.c",
+		"/home/yj/go/src/cmd/gc/subr.c",
+		"/home/yj/go/include/u.h",
+		"/home/yj/go/src/cmd/gc/fmt.c",
+		"/home/yj/go/src/libmach/linux.c",
+		"/home/yj/go/src/pkg/github.com/mattn/go-sqlite3/sqlite3_test.go",
+		"/home/yj/go/src/pkg/github.com/mattn/go-sqlite3/sqlite3",
+		"/home/yj/go/revel/revel.go",
+		"/home/yj/go/test/bench/go1/json_test.go",
+		"/home/yj/go/test/run",
+		"/home/yj/go/revel/cmd/rev.go",
+		"/home/yj/go/test/bench/go1/jsondata_test.go",
+		"/home/yj/go/test/cmplxdivide1.go",
+		"/home/yj/go/test/dwarf/z1.go",
+		"/home/yj/Build/go/src/pkg/html/template/js.go",
+		"/home/yj/Build/go/src/pkg/html/template/escape_test.go",
+		"/home/yj/Build/go/test/bench/go1/binarytree_test.go",
+		"/home/yj/Build/go/test/bench/garbage/tree.go",
+		"/home/yj/Build/go/test/run.go",
+		"/usr/include/math.h",
+		"/home/yj/Build/go/test/bench/garbage/tree",
+		"/home/yj/Build/dea-1.4/my-lisps/yasnippet-settings-0.8.el",
+		"/home/yj/Web/Django-1.4.1/setup.py",
+		"/home/yj/Build/dea-1.4/my-lisps/yasnippet-settings.el",
+		"/home/yj/Build/dea-1.4/lisps/yasnippet-0.8/yasnippet.el",
+		"/home/yj/Build/dea-1.4/lisps/cedet-1.1/cogre/wisent-dot-wy.el",
+		"/home/yj/Build/dea-1.4/lisps/cedet-1.1/cogre/wisent-dot.wy",
 		"/home/yj/Build/dea-1.4/old/yasnippet-0.6.1c/yasnippet.el",
 		"/home/yj/Build/dea-1.4/my-lisps/all-auto-complete-settings.el",
 		"/home/yj/Build/dea-1.4/my-lisps/auto-complete-settings.el",
@@ -114,7 +158,6 @@
 		"/home/yj/Web/phpwind_UTF8_8.7/upload/index.php",
 		"/home/yj/Web/phpwind_UTF8_8.7/docs/index.html",
 		"/home/yj/Build/dea-1.4/lisps/yasnippet-github/replace-slash-with-dash.diff",
-		"/home/yj/Build/dea-1.4/my-lisps/yasnippet-settings.el",
 		"/home/yj/Build/dea-1.4/lisps/yasnippet-github/yasnippet.el",
 		"/home/yj/Build/dea-1.4/my-lisps/yasnippet-settings-github.el",
 		"/var/www/index.html",
@@ -206,6 +249,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"mathcall",
+			"sqrt",
 			"yas-trigger-key",
 			"trigger-key",
 			"unbind-trigger-key",
@@ -258,34 +303,6 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/home/yj/Web/Django-1.4.1/setup.py",
-					"settings":
-					{
-						"buffer_size": 4019,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1271,
-								1271
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "/home/yj/.emacs",
 					"settings":
 					{
@@ -296,8 +313,8 @@
 						"selection":
 						[
 							[
-								1247,
-								1247
+								1246,
+								1246
 							]
 						],
 						"settings":
@@ -307,6 +324,32 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
+						"translation.y": 684.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/media/F8FE85B4FE856C26/Users/yj/Desktop/~~~大白本/NO.2-NO.9--text/tn2-3.txt",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
@@ -314,53 +357,77 @@
 				},
 				{
 					"buffer": 2,
-					"file": "/home/yj/Build/dea-1.4/lisps/yasnippet-0.8/yasnippet.el",
+					"file": "/home/yj/go/test/dwarf/main.go",
 					"settings":
 					{
-						"buffer_size": 186242,
+						"buffer_size": 349,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								87558,
-								87558
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Lisp/Lisp.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Go/Go.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 43033.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 3,
-					"file": "yasnippet-settings-0.8.el",
+					"file": "/home/yj/go/src/pkg/github.com/mattn/go-sqlite3/sqlite3.go",
 					"settings":
 					{
-						"buffer_size": 1123,
+						"buffer_size": 7517,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								285,
-								285
+								1945,
+								1945
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Lisp/Lisp.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Go/Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1482.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/yj/go/src/pkg/go/build/build.go",
+					"settings":
+					{
+						"buffer_size": 26723,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								243,
+								243
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Go/Go.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -369,29 +436,28 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "yasnippet-settings.el",
+					"buffer": 5,
+					"file": "/home/yj/go/src/pkg/runtime/thread_linux.c",
 					"settings":
 					{
-						"buffer_size": 1077,
+						"buffer_size": 6777,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								449,
-								449
+								6777,
+								6777
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Lisp/Lisp.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/C++/C.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1026.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
