@@ -10,3 +10,7 @@ tramp
 # Org-mode
 .org-id-locations
 *_archive
+
+# Archieve 
+.tar.bz2
+.tar.gz
