@@ -1,6 +1,6 @@
 ;; -*- Emacs-Lisp -*-
 
-;; Time-stamp: <2012-09-25 16:49:25 Tuesday by yj>
+;; Time-stamp: <2013-01-04 20:32:45 Friday by yj>
 
 ;; This  file is free  software; you  can redistribute  it and/or
 ;; modify it under the terms of the GNU General Public License as
@@ -140,6 +140,9 @@
 (require 'php-mode)
 
 (require 'sql-settings)
+
+;;Markdown mode settings
+(require 'markdown-mode)
 
 (setq my-shebang-patterns
       (list "^#!\\s-*/usr/.*/perl\\(\\( \\)\\|\\( .+ \\)\\)-w *.*"
