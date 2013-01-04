@@ -1,6 +1,6 @@
 ;; -*- Emacs-Lisp -*-
 
-;; Time-stamp: <2010-11-19 09:53:20 Friday by taoshanwen>
+;; Time-stamp: <2012-09-27 19:55:57 Thursday by yj>
 
 (require 'auto-complete-config)
 (require 'auto-complete+)
@@ -29,7 +29,8 @@
         ac-auto-start t
         ac-dwim t
         ac-candidate-limit ac-menu-height
-        ac-quick-help-delay .5
+        ac-use-quick-help t
+        ac-quick-help-delay 1.0
         ac-disable-faces nil)
 
   (set-default 'ac-sources
@@ -212,5 +213,10 @@
    (let ((mode-name (symbol-name mode)))
      (when (and (intern-soft mode-name) (intern-soft (concat mode-name "-map")))
        (define-key (symbol-value (am-intern mode-name "-map")) (kbd "C-c a") 'ac-start)))))
+
+
+;;设置自动补全起始字母数，和触发按键
+(setq ac-auto-start 3)              ;auto complete using clang is CPU sensitive
+;;(ac-set-trigger-key "<C-tab>")
 
 (provide 'auto-complete-settings)

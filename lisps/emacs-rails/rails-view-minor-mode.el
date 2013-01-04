@@ -5,8 +5,8 @@
 ;; Authors: Dmitry Galinsky <dima dot exe at gmail dot com>
 
 ;; Keywords: ruby rails languages oop
-;; $URL: svn+ssh://rubyforge/var/svn/emacs-rails/trunk/rails-view-minor-mode.el $
-;; $Id: rails-view-minor-mode.el 173 2007-04-09 15:15:02Z dimaexe $
+;; $URL$
+;; $Id$
 
 ;;; License
 
@@ -39,11 +39,10 @@
               (message "Empty partial name") (return)))
           (kill-region (region-beginning) (region-end))
           (insert (concat "<%= render :partial => \"" name "\" %>"))
-          (mmm-parse-region (line-beginning-position) (line-end-position))
-          (insert  "\n")
+          (insert "\n")
           (split-window-vertically)
           (other-window 1)
-          (find-file (concat "_" name ".rhtml"))
+          (find-file (concat "_" name ".html.erb"))
           (goto-char (point-min))
           (erase-buffer)
           (insert content)
@@ -77,7 +76,7 @@
                      (helper-func-def (concat "def " helper-defination)))
                  (kill-region begin-pos end-pos)
                  (insert (concat "<%= " helper-defination " -%>" ))
-                 (mmm-parse-region (line-beginning-position) (line-end-position))
+                 (funcall indent-line-function)
                  (insert "\n")
                  (split-window-vertically)
                  (other-window 1)

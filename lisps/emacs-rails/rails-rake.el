@@ -27,6 +27,11 @@
 (eval-when-compile
   (require 'rails-scripts))
 
+(defcustom rails-rake-use-bundler-when-possible t
+  "t when rake should be run with 'bundle exec' whenever possible. (Gemfile present)"
+  :group 'rails
+  :type 'boolean)
+
 (defvar rails-rake:history (list))
 
 (defvar rails-rake:tasks-regexp "^rake \\([^ ]*\\).*# \\(.*\\)"
@@ -34,7 +39,7 @@
 
 (defun rails-rake:create-tasks-cache (file-name)
   "Create a cache file from rake --tasks output."
-  (let ((tasks (loop for str in (split-string (rails-cmd-proxy:shell-command-to-string "rake --tasks") "\n")
+  (let ((tasks (loop for str in (split-string (rails-cmd-proxy:shell-command-to-string (rails-rake:rake-command "--task")) "\n")
                      for task = (when (string-not-empty str)
                                   (string=~ rails-rake:tasks-regexp str $1))
                      when task collect task)))
@@ -60,12 +65,12 @@
                   :if 'null)
          'string<)))
 
-(defun rails-rake:task (task &optional major-mode)
-  "Run a Rake task in RAILS_ROOT with MAJOR-MODE."
+(defun rails-rake:task (task &optional major-mode mode-line-string)
+  "Run a Rake task in RAILS_ROOT with MAJOR-MODE, using mode-line-string as the script name."
   (interactive (rails-completing-read "What task run" (rails-rake:list-of-tasks-without-tests)
                                       'rails-rake:history nil))
   (when task
-    (rails-script:run "rake" (list task) major-mode)))
+    (rails-script:run (rails-rake:rake-command) (list task) major-mode (or mode-line-string (concat (rails-rake:rake-command " ") task)))))
 
 (defun rails-rake:migrate (&optional version)
   "Run the db:migrate task"
@@ -93,5 +98,46 @@
     (rails-rake:migrate
      (when (< 2  (length versions))
        (nth 1 versions)))))
+
+(defun rails-rake:migrate-version (&optional version direction)
+  "Run the db:migration:(up|down) task"
+  (interactive)
+  (if (string-equal "" version)
+      (setq version (rails-core:current-migration-version)))
+  (rails-rake:task
+   (concat
+    "db:migrate"
+    (cond ((string-equal direction "up") ":up")
+          ((string-equal direction "down") ":down"))
+    (typecase version
+      (integer (format " VERSION=%.3i" version))
+      (string (format " VERSION=%s" version))))))
+
+(defun rails-rake:migration-version-up (&optional version)
+  "Run up migration with VERSION."
+  (interactive (rails-completing-read "Version of migration"
+                                      (rails-core:migration-versions t)
+                                      nil
+                                      t))
+  (when version
+    (rails-rake:migrate-version version "up")))
+
+(defun rails-rake:migration-version-down (&optional version)
+  "Run up migration with VERSION."
+  (interactive (rails-completing-read "Version of migration"
+                                      (rails-core:migration-versions t)
+                                      nil
+                                      t))
+  (when version
+    (rails-rake:migrate-version version "down")))
+
+;; This function was originally defined anonymously in ui. It was defined here so keys
+;; can be added to it dryly
+(defun rails-rake:clone-development-db-to-test-db ()
+  "Clone development DB to test DB."
+  (interactive) (rails-rake:task "db:test:clone"))
+
+(defun rails-rake:rake-command (&optional args)
+  (rails-core:prepare-command (concat "rake " args)))
 
 (provide 'rails-rake)

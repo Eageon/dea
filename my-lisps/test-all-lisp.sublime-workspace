@@ -4,6 +4,26 @@
 		"selected_items":
 		[
 			[
+				"s",
+				"str	<-chan string ν"
+			],
+			[
+				"fu",
+				"func (*Event)	func (...) {...} ʂ"
+			],
+			[
+				"sta",
+				"stage1"
+			],
+			[
+				"t",
+				"test"
+			],
+			[
+				"f",
+				"flag"
+			],
+			[
 				"inc",
 				"include"
 			],
@@ -18,25 +38,16 @@
 			[
 				"in",
 				"include"
-			],
-			[
-				"s",
-				"ste	step(2) { |e| .. }"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "/home/yj/.emacs",
-			"settings":
-			{
-				"buffer_size": 11797,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/media/F8FE85B4FE856C26/Users/yj/Desktop/~~~大白本/NO.2-NO.9--text/tn2-3.txt",
+			"contents": "",
+			"file": "/home/yj/wayland/weston/src/compositor.c",
+			"file_size": -1,
+			"file_write_time": -1,
 			"settings":
 			{
 				"buffer_size": 0,
@@ -44,34 +55,42 @@
 			}
 		},
 		{
-			"file": "/home/yj/go/test/dwarf/main.go",
+			"file": "/home/yj/go/src/pkg/code.google.com/p/goprotobuf/proto/decode.go",
 			"settings":
 			{
-				"buffer_size": 349,
+				"buffer_size": 17802,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/yj/go/src/pkg/github.com/mattn/go-sqlite3/sqlite3.go",
+			"file": "/home/yj/go/misc/goplay/goplay.go",
 			"settings":
 			{
-				"buffer_size": 7517,
+				"buffer_size": 6743,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/yj/go/src/pkg/go/build/build.go",
+			"file": "/home/yj/go/src/pkg/flag/flag.go",
 			"settings":
 			{
-				"buffer_size": 26723,
+				"buffer_size": 26144,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/yj/go/src/pkg/runtime/thread_linux.c",
+			"file": "/home/yj/Build/arm-dev/include/common.h",
 			"settings":
 			{
-				"buffer_size": 6777,
+				"buffer_size": 1515,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/yj/Build/arm-dev/camera/camera.c",
+			"settings":
+			{
+				"buffer_size": 10553,
 				"line_ending": "Unix"
 			}
 		}
@@ -85,6 +104,10 @@
 			[
 				"Package Control: i",
 				"Package Control: Install Package"
+			],
+			[
+				"Package Control: u",
+				"Package Control: Upgrade Package"
 			],
 			[
 				"Package Control: r",
@@ -112,6 +135,50 @@
 	},
 	"file_history":
 	[
+		"/home/yj/go/src/pkg/os/exec.go",
+		"/home/yj/.config/sublime-text-2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/home/yj/go/src/pkg/code.google.com/p/goprotobuf/proto/encode.go",
+		"/home/yj/wayland/cairo/aclocal.m4",
+		"/home/yj/go/src/pkg/code.google.com/p/goprotobuf/proto/lib.go",
+		"/home/yj/go/src/pkg/code.google.com/p/goprotobuf/proto/message_set.go",
+		"/home/yj/go/src/pkg/github.com/ha/doozer/conn.go",
+		"/home/yj/go/src/pkg/github.com/ha/doozerd/server/txn.go",
+		"/home/yj/wayland/pixman/pixman/pixman-glyph.c",
+		"/home/yj/Build/v2ex/backstage.py",
+		"/home/yj/wayland/pixman/pixman/pixman-private.h",
+		"/home/yj/wayland/pixman/pixman/pixman-compiler.h",
+		"/home/yj/wayland/cairo/Makefile",
+		"/home/yj/wayland/cairo/Makefile.am",
+		"/home/yj/wayland/pixman/pixman/pixman.h",
+		"/home/yj/wayland/cairo/Makefile.in",
+		"/home/yj/Build/thrift-0.9.0/lib/go/thrift/ttransport.go",
+		"/home/yj/go/go-test.go",
+		"/home/yj/go/src/pkg/github.com/robfig/revel/cmd/run.go",
+		"/home/yj/go/src/pkg/github.com/robfig/revel/samples/chat/app/chatroom/chatroom.go",
+		"/home/yj/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/yj/.config/sublime-text-2/Packages/GoSublime/GoSublime.sublime-settings",
+		"/home/yj/.config/sublime-text-2/Packages/CTags/CTags.sublime-settings",
+		"/home/yj/Build/thrift-0.9.0/lib/go/thrift/tbinary_protocol.go",
+		"/home/yj/go/test/named.go",
+		"/home/yj/go/test/index.go",
+		"/home/yj/go/test/cmp.go",
+		"/host/goagent/local/proxy.py",
+		"/home/yj/.config/sublime-text-2/Packages/User/GoSublime.sublime-settings",
+		"/home/yj/go/misc/emacs/go-mode-load.el",
+		"/home/yj/go/test/bench/garbage/parser.go",
+		"/home/yj/go/test/run.go",
+		"/home/yj/go/test/goto.go",
+		"/home/yj/go/src/pkg/runtime/thread_linux.c",
+		"/home/yj/Build/dea-1.4/lisps/golang/go-mode.el",
+		"/home/yj/Build/dea-1.4/lisps/xref/xrefsetup",
+		"/home/yj/Build/dea-1.4/lisps/org/org-src.el",
+		"/home/yj/.emacs",
+		"/media/F8FE85B4FE856C26/Users/yj/Desktop/~~~大白本/NO.2-NO.9--text/tn2-3.txt",
+		"/home/yj/go/test/dwarf/main.go",
+		"/home/yj/go/src/pkg/github.com/mattn/go-sqlite3/sqlite3.go",
+		"/home/yj/go/src/pkg/go/build/build.go",
+		"/home/yj/Build/dea-1.4/my-lisps/rails-settings.el",
+		"/home/yj/Build/dea-1.4/my-lisps/dev-settings.el",
 		"/home/yj/go/src/cmd/gc/walk.c",
 		"/home/yj/go/src/cmd/8c/gc.h",
 		"/home/yj/go/src/cmd/8c/cgen.c",
@@ -161,11 +228,9 @@
 		"/home/yj/Build/dea-1.4/lisps/yasnippet-github/yasnippet.el",
 		"/home/yj/Build/dea-1.4/my-lisps/yasnippet-settings-github.el",
 		"/var/www/index.html",
-		"/home/yj/.emacs",
 		"/home/yj/Build/dea-1.4/my-lisps/vc-settings.el",
 		"/home/yj/Build/dea-1.4/my-lisps/vc+.el",
 		"/home/yj/Build/dea-1.4/my-lisps/ruby-settings.el",
-		"/home/yj/Build/dea-1.4/my-lisps/dev-settings.el",
 		"/home/yj/CV/PCV/examples/rof_denoise.py",
 		"/home/yj/CV/PCV/PCV/imagesearch/imagesearch.py",
 		"/home/yj/CV/PCV/PCV/geometry/warp.py",
@@ -197,41 +262,7 @@
 		"/home/yj/Build/rakudo-star-2012.06/Configure.pl",
 		"/home/yj/Build/rakudo-star-2012.06/tools/lib/NQP/Configure.pm",
 		"/home/yj/Build/dea-1.4/my-lisps/ahei-misc.el",
-		"/home/yj/Build/aliedit.sh",
-		"/home/yj/Build/hadoop-1.0.3/NOTICE.txt",
-		"/home/yj/Build/hadoop-1.0.3/README.txt",
-		"/home/yj/Build/dea-1.4/my-lisps/select-buffer.el",
-		"/home/yj/Build/dea-1.4/my-lisps/c-settings.el",
-		"/home/yj/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
-		"/home/yj/Build/emacs-24.1/configure",
-		"/var/lib/apt/lists/security.ubuntu.com_ubuntu_dists_precise-security_main_i18n_Translation-en",
-		"/usr/local/include/boost/pool/pool.hpp",
-		"/home/yj/Build/boost_1_50_0/INSTALL",
-		"/usr/local/include/boost/thread.hpp",
-		"/usr/local/include/boost/thread/thread.hpp",
-		"/usr/local/include/boost/thread/pthread/shared_mutex.hpp",
-		"/home/yj/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
-		"/home/yj/Build/hadoop-1.0.3/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/NewMapReduceProjectWizard.java",
-		"/home/yj/.config/sublime-text-2/Packages/CTags/CTags.sublime-settings",
-		"/home/yj/Build/dea-1.4/my-lisps/align-settings.el",
-		"/home/yj/Test/Test/Test.c",
-		"/home/yj/Build/attack_soap2.rb",
-		"/home/yj/perl5/lib/perl5/local/lib.pm",
-		"/home/yj/.config/sublime-text-2/CTags.sublime-settings",
-		"/home/yj/.config/CTags.sublime-settings",
-		"/home/yj/Test/Test/Test.sublime-workspace",
-		"/home/yj/.config/sublime-text-2/Packages/CTags/ctags.py",
-		"/home/yj/.config/sublime-text-2/Packages/CTags/Default.sublime-commands",
-		"/home/yj/.config/sublime-text-2/Packages/CTags/ctagsplugin.py",
-		"/home/yj/.config/sublime-text-2/Installed Packages/Package Control.sublime-package",
-		"/home/yj/.config/sublime-text-2/Packages/BeautifyRuby/BeautifyRuby.sublime-settings",
-		"/home/yj/.config/sublime-text-2/Packages/SideBarEnhancements/Side Bar.sublime-settings",
-		"/home/yj/.config/sublime-text-2/Packages/User/Side Bar.sublime-settings",
-		"/home/yj/test.rb",
-		"/etc/gnome/defaults.list",
-		"/home/yj/.config/sublime-text-2/Packages/User/GitHub.sublime-settings",
-		"/home/yj/Sublime Text 2/sublime_text_crack",
-		"/home/yj/Sublime Text 2/sublime_text_backup"
+		"/home/yj/Build/aliedit.sh"
 	],
 	"find":
 	{
@@ -246,9 +277,17 @@
 	},
 	"find_state":
 	{
-		"case_sensitive": false,
+		"case_sensitive": true,
 		"find_history":
 		[
+			"commandLine",
+			"AM_MAKEFLAGS",
+			"all-recursive",
+			"MAKE",
+			"all-recursive",
+			"MAKE",
+			"PIXMAN_EXPORT",
+			"\\\\",
 			"mathcall",
 			"sqrt",
 			"yas-trigger-key",
@@ -298,40 +337,12 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 5,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/home/yj/.emacs",
-					"settings":
-					{
-						"buffer_size": 11797,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1246,
-								1246
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 684.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/media/F8FE85B4FE856C26/Users/yj/Desktop/~~~大白本/NO.2-NO.9--text/tn2-3.txt",
+					"file": "/home/yj/wayland/weston/src/compositor.c",
 					"settings":
 					{
 						"buffer_size": 0,
@@ -347,81 +358,83 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/C++/C.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/yj/go/src/pkg/code.google.com/p/goprotobuf/proto/decode.go",
+					"settings":
+					{
+						"buffer_size": 17802,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17802,
+								17802
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Go/Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 13319.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "/home/yj/go/test/dwarf/main.go",
+					"file": "/home/yj/go/misc/goplay/goplay.go",
 					"settings":
 					{
-						"buffer_size": 349,
+						"buffer_size": 6743,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								558,
+								558
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Go/Go.tmLanguage"
+							"syntax": "Packages/Go/Go.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 285.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 3,
-					"file": "/home/yj/go/src/pkg/github.com/mattn/go-sqlite3/sqlite3.go",
+					"file": "/home/yj/go/src/pkg/flag/flag.go",
 					"settings":
 					{
-						"buffer_size": 7517,
+						"buffer_size": 26144,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1945,
-								1945
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Go/Go.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 1482.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/home/yj/go/src/pkg/go/build/build.go",
-					"settings":
-					{
-						"buffer_size": 26723,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								243,
-								243
+								7565,
+								7565
 							]
 						],
 						"settings":
@@ -436,19 +449,45 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
-					"file": "/home/yj/go/src/pkg/runtime/thread_linux.c",
+					"buffer": 4,
+					"file": "/home/yj/Build/arm-dev/include/common.h",
 					"settings":
 					{
-						"buffer_size": 6777,
+						"buffer_size": 1515,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								6777,
-								6777
+								638,
+								638
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 836.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/yj/Build/arm-dev/camera/camera.c",
+					"settings":
+					{
+						"buffer_size": 10553,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								146,
+								146
 							]
 						],
 						"settings":
@@ -457,7 +496,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1026.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -471,7 +510,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 35.0
 	},
 	"layout":
 	{
@@ -496,6 +535,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.GsDepends-output":
+	{
+		"height": 124.0
+	},
 	"output.exec":
 	{
 		"height": 120.0

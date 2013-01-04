@@ -1,8 +1,8 @@
 ;; -*- Emacs-Lisp -*-
 
-;; Time-stamp: <2012-08-14 18:07:52 Tuesday by yj>
+;; Time-stamp: <2013-01-04 18:00:47 Friday by yj>
 
-(defconst my-emacs-path "/home/yj/Build/dea-1.4/" "我的emacs相关配置文件的路径")
+(defconst my-emacs-path "/home/yj/build/dea-1.4/" "我的emacs相关配置文件的路径")
 (defconst my-emacs-my-lisps-path  (concat my-emacs-path "my-lisps/") "我自己写的emacs lisp包的路径")
 (defconst my-emacs-lisps-path     (concat my-emacs-path "lisps/") "我下载的emacs lisp包的路径")
 (defconst my-emacs-templates-path (concat my-emacs-path "templates/") "Path for templates")
@@ -35,6 +35,9 @@
 
 ;;git-emacs源代码管理
 (require 'git-emacs)
+
+;;Go language
+;;(require 'go-mode-load)
 
 ;; CUA的矩阵区域操作特别方便
 (require 'cua-settings)

@@ -5,8 +5,8 @@
 ;; Authors: Dmitry Galinsky <dima dot exe at gmail dot com>
 
 ;; Keywords: ruby rails languages oop
-;; $URL: svn+ssh://rubyforge/var/svn/emacs-rails/trunk/rails-model-minor-mode.el $
-;; $Id: rails-model-minor-mode.el 158 2007-04-03 08:45:46Z dimaexe $
+;; $URL$
+;; $Id$
 
 ;;; License
 
@@ -30,7 +30,8 @@
   "Minor mode for RubyOnRails models."
   :lighter " Model"
   :keymap (rails-model-layout:keymap :model)
-  (setq rails-primary-switch-func 'rails-model-layout:switch-to-unit-test)
+  (if (rails-core:spec-exist-p) (setq rails-primary-switch-func 'rails-model-layout:switch-to-rspec-model)
+      (setq rails-primary-switch-func 'rails-model-layout:switch-to-unit-test))
   (setq rails-secondary-switch-func 'rails-model-layout:menu))
 
 (provide 'rails-model-minor-mode)
