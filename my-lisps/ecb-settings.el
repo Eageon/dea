@@ -19,7 +19,12 @@
 ;; write  to  the Free  Software  Foundation,  Inc., 51  Franklin
 ;; Street, Fifth Floor, Boston, MA 02110-1301, USA.
 
-(require 'ecb-autoloads)
+(require 'ecb)
+
+;; If you have once done ecb-activate
+;; then decomment the line below
+;; and comment the (require 'ecb)
+;;(require 'ecb-autoloads)
 
 (defun ecb ()
   "启动ecb"

@@ -1,6 +1,6 @@
 ;; -*- Emacs-Lisp -*-
 
-;; Time-stamp: <2012-09-27 19:55:57 Thursday by yj>
+;; Time-stamp: <2013-01-17 00:10:42 Thursday by yj>
 
 (require 'auto-complete-config)
 (require 'auto-complete+)
@@ -18,6 +18,8 @@
  `(("<return>"   nil)
    ("RET"        nil)
    ("M-j"        ac-complete)))
+(define-key ac-completing-map "\t" 'ac-complete)
+(define-key ac-completing-map "\r" nil)
 
 (defun auto-complete-settings ()
   "Settings for `auto-complete'."
@@ -216,7 +218,7 @@
 
 
 ;;设置自动补全起始字母数，和触发按键
-(setq ac-auto-start 3)              ;auto complete using clang is CPU sensitive
+(setq ac-auto-start 4)              ;auto complete using clang is CPU sensitive
 ;;(ac-set-trigger-key "<C-tab>")
 
 (provide 'auto-complete-settings)

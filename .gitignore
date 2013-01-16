@@ -17,4 +17,4 @@ tramp
 *.tgz
 
 # Backup folders
-/old/
+old/
