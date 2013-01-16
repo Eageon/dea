@@ -1,6 +1,6 @@
 ;; -*- Emacs-Lisp -*-
 
-;; Time-stamp: <2010-08-29 18:34:06 Sunday by taoshanwen>
+;; Time-stamp: <2013-01-16 22:36:42 Wednesday by yj>
 
 ;; This  file is free  software; you  can redistribute  it and/or
 ;; modify it under the terms of the GNU General Public License as
@@ -18,7 +18,9 @@
 ;; Street, Fifth Floor, Boston, MA 02110-1301, USA.
 
 ;; Xrefactory
-(require 'xref-settings)
+;;(require 'xref-settings)
+;; Cscope
+(require 'xcscope-settings)
 
 ;; snavigator
 (require 'sn)

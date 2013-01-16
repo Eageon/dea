@@ -1,6 +1,6 @@
 ;; -*- Emacs-Lisp -*-
 
-;; Time-stamp: <2013-01-04 20:32:45 Friday by yj>
+;; Time-stamp: <2013-01-04 20:50:07 Friday by yj>
 
 ;; This  file is free  software; you  can redistribute  it and/or
 ;; modify it under the terms of the GNU General Public License as
@@ -125,6 +125,7 @@
 
 ;; Go语言配置
 (require 'go-settings)
+(require 'go-autocomplete)
 
 ;; xml mode配置
 (require 'sgml-mode-settings)

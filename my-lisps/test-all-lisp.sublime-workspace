@@ -55,42 +55,10 @@
 			}
 		},
 		{
-			"file": "/home/yj/go/src/pkg/code.google.com/p/goprotobuf/proto/decode.go",
+			"file": "test-all-lisp.sublime-project",
 			"settings":
 			{
-				"buffer_size": 17802,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/yj/go/misc/goplay/goplay.go",
-			"settings":
-			{
-				"buffer_size": 6743,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/yj/go/src/pkg/flag/flag.go",
-			"settings":
-			{
-				"buffer_size": 26144,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/yj/Build/arm-dev/include/common.h",
-			"settings":
-			{
-				"buffer_size": 1515,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/yj/Build/arm-dev/camera/camera.c",
-			"settings":
-			{
-				"buffer_size": 10553,
+				"buffer_size": 75,
 				"line_ending": "Unix"
 			}
 		}
@@ -135,6 +103,11 @@
 	},
 	"file_history":
 	[
+		"/home/yj/go/src/pkg/code.google.com/p/goprotobuf/proto/decode.go",
+		"/home/yj/Build/arm-dev/camera/camera.c",
+		"/home/yj/Build/arm-dev/include/common.h",
+		"/home/yj/go/src/pkg/flag/flag.go",
+		"/home/yj/go/misc/goplay/goplay.go",
 		"/home/yj/go/src/pkg/os/exec.go",
 		"/home/yj/.config/sublime-text-2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
 		"/home/yj/go/src/pkg/code.google.com/p/goprotobuf/proto/encode.go",
@@ -257,12 +230,7 @@
 		"/home/yj/Build/dea-1.4/my-lisps/svn-settings.el",
 		"/home/yj/Build/dea-1.4/my-lisps/company-settings.el",
 		"/home/yj/Build/dea-1.4/my-lisps/cedet/speedbar/cedet-speedbar-settings.el",
-		"/home/yj/Build/rakudo-star-2012.06/modules/perl6-File-Tools/lib/File/Find.pm",
-		"/home/yj/Build/dea-1.4/my-lisps/ahei-face.el",
-		"/home/yj/Build/rakudo-star-2012.06/Configure.pl",
-		"/home/yj/Build/rakudo-star-2012.06/tools/lib/NQP/Configure.pm",
-		"/home/yj/Build/dea-1.4/my-lisps/ahei-misc.el",
-		"/home/yj/Build/aliedit.sh"
+		"/home/yj/Build/rakudo-star-2012.06/modules/perl6-File-Tools/lib/File/Find.pm"
 	],
 	"find":
 	{
@@ -337,7 +305,6 @@
 	"groups":
 	[
 		{
-			"selected": 5,
 			"sheets":
 			[
 				{
@@ -369,131 +336,23 @@
 				},
 				{
 					"buffer": 1,
-					"file": "/home/yj/go/src/pkg/code.google.com/p/goprotobuf/proto/decode.go",
+					"file": "test-all-lisp.sublime-project",
 					"settings":
 					{
-						"buffer_size": 17802,
+						"buffer_size": 75,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								17802,
-								17802
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Go/Go.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 13319.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/home/yj/go/misc/goplay/goplay.go",
-					"settings":
-					{
-						"buffer_size": 6743,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								558,
-								558
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Go/Go.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 285.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/home/yj/go/src/pkg/flag/flag.go",
-					"settings":
-					{
-						"buffer_size": 26144,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								7565,
-								7565
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Go/Go.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/home/yj/Build/arm-dev/include/common.h",
-					"settings":
-					{
-						"buffer_size": 1515,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								638,
-								638
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/C++/C++.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 836.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/home/yj/Build/arm-dev/camera/camera.c",
-					"settings":
-					{
-						"buffer_size": 10553,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								146,
-								146
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/C++/C.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -558,16 +417,16 @@
 	},
 	"select_project":
 	{
-		"height": 0.0,
+		"height": 500.0,
 		"selected_items":
 		[
 		],
-		"width": 0.0
+		"width": 380.0
 	},
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": false,
+	"side_bar_visible": true,
 	"side_bar_width": 217.0,
 	"status_bar_visible": true
 }
