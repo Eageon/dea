@@ -1,6 +1,6 @@
 ;; -*- Emacs-Lisp -*-
 
-;; Time-stamp: <2013-01-04 18:00:47 Friday by yj>
+;; Time-stamp: <2013-01-16 23:02:13 Wednesday by yj>
 
 (defconst my-emacs-path "/home/yj/build/dea-1.4/" "我的emacs相关配置文件的路径")
 (defconst my-emacs-my-lisps-path  (concat my-emacs-path "my-lisps/") "我自己写的emacs lisp包的路径")
@@ -34,7 +34,7 @@
 (require 'coding-settings)
 
 ;;git-emacs源代码管理
-(require 'git-emacs)
+(require 'git-settings)
 
 ;;Go language
 ;;(require 'go-mode-load)

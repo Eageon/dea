@@ -12,6 +12,9 @@ tramp
 *_archive
 
 # Archieve 
-.tar.bz2
-.tar.gz
-.tgz
+*.tar.bz2
+*.tar.gz
+*.tgz
+
+# Backup folders
+old/
