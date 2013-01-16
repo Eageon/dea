@@ -2,7 +2,7 @@
 \#*\#
 /.emacs.desktop
 /.emacs.desktop.lock
-.elc
+*.elc
 auto-save-list
 tramp
 .\#*
@@ -17,4 +17,4 @@ tramp
 *.tgz
 
 # Backup folders
-old/
+/old/
