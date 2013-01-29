@@ -1,0 +1,36 @@
+[submodule "lisps/cedet"]
+	path = lisps/cedet
+	url = git@github.com:emacsmirror/cedet.git
+[submodule "lisps/company"]
+	path = lisps/company
+	url = git@github.com:nschum/company.git
+[submodule "lisps/ecb"]
+	path = lisps/ecb
+	url = git@github.com:emacsmirror/ecb.git
+[submodule "lisps/emacs-eclim"]
+	path = lisps/emacs-eclim
+	url = git@github.com:senny/emacs-eclim.git
+[submodule "lisps/git-emacs"]
+	path = lisps/git-emacs
+	url = git@github.com:tsgates/git-emacs.git
+[submodule "lisps/muse"]
+	path = lisps/muse
+	url = git@github.com:emacsmirror/muse.git
+[submodule "lisps/pde"]
+	path = lisps/pde
+	url = git@github.com:emacsattic/pde.git
+[submodule "lisps/popup-el"]
+	path = lisps/popup-el
+	url = git@github.com:auto-complete/popup-el.git
+[submodule "lisps/yasnippet"]
+	path = lisps/yasnippet
+	url = git@github.com:capitaomorte/yasnippet.git
+[submodule "lisps/session"]
+	path = lisps/session
+	url = git@github.com:tarsius/session.git
+[submodule "lisps/tree-mode"]
+	path = lisps/tree-mode
+	url = git@github.com:emacsmirror/tree-mode.git
+[submodule "lisps/python-mode"]
+	path = lisps/python-mode
+	url = git@github.com:emacsmirror/python-mode.git
